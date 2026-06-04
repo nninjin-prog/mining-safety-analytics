@@ -1,0 +1,851 @@
+incident_id,year,month,department,incident_type,severity,shift,worker_experience,root_cause,days_lost,corrective_action_taken
+INC-0001,2019,5,Maintenance,Manual Handling,Near Miss,Day,5–10 years,Equipment failure,0,Yes
+INC-0002,2023,5,Tailings Management,Slip / Trip / Fall,Near Miss,Day,3–5 years,Equipment failure,0,Yes
+INC-0003,2022,7,Electrical,Struck by Object,Lost Time Injury,Afternoon,5–10 years,Poor communication,1,Partial
+INC-0004,2023,6,Underground Mining,Struck by Object,Medical Treatment,Afternoon,5–10 years,Inadequate supervision,1,Yes
+INC-0005,2024,5,Electrical,Equipment Contact,Near Miss,Night,<1 year,Insufficient training,0,No
+INC-0006,2022,7,Open Pit Operations,Slip / Trip / Fall,Near Miss,Afternoon,5–10 years,Human error,0,Yes
+INC-0007,2022,8,Electrical,Slip / Trip / Fall,Lost Time Injury,Night,1–3 years,Inadequate procedure,3,Partial
+INC-0008,2019,7,HSE / Supervision,Manual Handling,Near Miss,Night,5–10 years,PPE non-compliance,0,Yes
+INC-0009,2020,6,Open Pit Operations,Slip / Trip / Fall,Fatality,Afternoon,<1 year,Equipment failure,0,Partial
+INC-0010,2022,5,Electrical,Manual Handling,Near Miss,Night,<1 year,Human error,0,Partial
+INC-0011,2023,2,Drilling & Blasting,Near Miss,Near Miss,Day,>10 years,Inadequate supervision,0,Yes
+INC-0012,2023,12,Drilling & Blasting,Vehicle Collision,Medical Treatment,Day,1–3 years,Environmental condition,1,Yes
+INC-0013,2021,9,Underground Mining,Slip / Trip / Fall,First Aid,Day,1–3 years,Environmental condition,0,Partial
+INC-0014,2019,1,Open Pit Operations,Vehicle Collision,Near Miss,Afternoon,<1 year,Human error,0,Yes
+INC-0015,2021,11,Maintenance,Struck by Object,Lost Time Injury,Night,1–3 years,Insufficient training,3,Yes
+INC-0016,2024,11,Processing Plant,Manual Handling,First Aid,Night,5–10 years,PPE non-compliance,0,Yes
+INC-0017,2020,12,Maintenance,Struck by Object,First Aid,Day,1–3 years,Environmental condition,0,Yes
+INC-0018,2022,6,Tailings Management,Vehicle Collision,Medical Treatment,Afternoon,1–3 years,Inadequate procedure,1,Yes
+INC-0019,2024,2,Underground Mining,Slip / Trip / Fall,First Aid,Afternoon,1–3 years,Inadequate procedure,0,Yes
+INC-0020,2019,8,Processing Plant,Slip / Trip / Fall,Medical Treatment,Night,<1 year,Human error,1,Partial
+INC-0021,2022,2,Maintenance,Vehicle Collision,Near Miss,Night,<1 year,Inadequate procedure,0,Yes
+INC-0022,2024,10,Logistics & Transport,Struck by Object,Near Miss,Day,5–10 years,Insufficient training,0,Yes
+INC-0023,2020,11,Underground Mining,Vehicle Collision,First Aid,Night,1–3 years,Equipment failure,0,Yes
+INC-0024,2022,12,Drilling & Blasting,Electrical Incident,Lost Time Injury,Afternoon,1–3 years,Poor communication,9,Yes
+INC-0025,2024,5,Electrical,Struck by Object,Medical Treatment,Day,3–5 years,Human error,1,No
+INC-0026,2019,4,Open Pit Operations,Manual Handling,Near Miss,Afternoon,1–3 years,Fatigue,0,Partial
+INC-0027,2022,12,Electrical,Equipment Contact,Near Miss,Day,1–3 years,Insufficient training,0,Yes
+INC-0028,2023,1,Processing Plant,Equipment Contact,Medical Treatment,Afternoon,>10 years,Equipment failure,1,Yes
+INC-0029,2023,7,Processing Plant,Chemical Exposure,First Aid,Day,<1 year,Inadequate procedure,0,Yes
+INC-0030,2022,12,Tailings Management,Manual Handling,Near Miss,Night,>10 years,Human error,0,No
+INC-0031,2020,9,Open Pit Operations,Manual Handling,Near Miss,Afternoon,1–3 years,Equipment failure,0,Yes
+INC-0032,2022,1,Maintenance,Chemical Exposure,Near Miss,Afternoon,3–5 years,Inadequate procedure,0,Yes
+INC-0033,2021,6,Drilling & Blasting,Slip / Trip / Fall,Medical Treatment,Afternoon,>10 years,Inadequate procedure,1,Partial
+INC-0034,2022,8,Logistics & Transport,Manual Handling,First Aid,Night,>10 years,Poor communication,0,Yes
+INC-0035,2021,1,Drilling & Blasting,Equipment Contact,First Aid,Day,<1 year,Insufficient training,0,No
+INC-0036,2024,6,Processing Plant,Manual Handling,Near Miss,Day,5–10 years,Environmental condition,0,Yes
+INC-0037,2023,8,Maintenance,Struck by Object,Medical Treatment,Day,>10 years,Inadequate procedure,1,Yes
+INC-0038,2021,1,Drilling & Blasting,Equipment Contact,First Aid,Day,5–10 years,Inadequate supervision,0,Yes
+INC-0039,2022,1,Open Pit Operations,Chemical Exposure,Fatality,Day,5–10 years,Fatigue,0,Yes
+INC-0040,2021,12,Maintenance,Equipment Contact,Medical Treatment,Day,5–10 years,Insufficient training,1,Yes
+INC-0041,2022,11,Underground Mining,Slip / Trip / Fall,Near Miss,Night,<1 year,Insufficient training,0,No
+INC-0042,2021,3,Processing Plant,Struck by Object,Near Miss,Afternoon,1–3 years,Insufficient training,0,Partial
+INC-0043,2023,10,Maintenance,Manual Handling,Near Miss,Day,5–10 years,Poor communication,0,Yes
+INC-0044,2021,10,Underground Mining,Vehicle Collision,Near Miss,Afternoon,1–3 years,Insufficient training,0,No
+INC-0045,2022,3,Logistics & Transport,Electrical Incident,Medical Treatment,Night,3–5 years,Inadequate procedure,1,Yes
+INC-0046,2023,2,Open Pit Operations,Equipment Contact,Medical Treatment,Day,3–5 years,Inadequate procedure,1,Partial
+INC-0047,2021,5,Open Pit Operations,Equipment Contact,Medical Treatment,Day,1–3 years,Inadequate supervision,1,Yes
+INC-0048,2024,3,Open Pit Operations,Struck by Object,Lost Time Injury,Day,<1 year,Human error,2,Yes
+INC-0049,2020,9,Open Pit Operations,Equipment Contact,Medical Treatment,Afternoon,3–5 years,Inadequate procedure,1,Yes
+INC-0050,2023,6,Underground Mining,Manual Handling,Near Miss,Day,1–3 years,Inadequate procedure,0,Yes
+INC-0051,2021,3,Underground Mining,Equipment Contact,First Aid,Day,1–3 years,Inadequate procedure,0,Yes
+INC-0052,2021,2,Processing Plant,Electrical Incident,Lost Time Injury,Afternoon,5–10 years,Fatigue,4,Yes
+INC-0053,2023,9,Maintenance,Struck by Object,Near Miss,Afternoon,1–3 years,Human error,0,Yes
+INC-0054,2022,3,Open Pit Operations,Slip / Trip / Fall,First Aid,Afternoon,5–10 years,Insufficient training,0,No
+INC-0055,2021,9,Open Pit Operations,Manual Handling,Lost Time Injury,Day,3–5 years,Human error,7,Yes
+INC-0056,2019,9,Processing Plant,Manual Handling,Medical Treatment,Day,5–10 years,Inadequate procedure,1,Yes
+INC-0057,2019,2,Underground Mining,Vehicle Collision,First Aid,Night,<1 year,Poor communication,0,No
+INC-0058,2023,7,Processing Plant,Vehicle Collision,Lost Time Injury,Day,3–5 years,Insufficient training,10,Yes
+INC-0059,2022,5,Processing Plant,Equipment Contact,Lost Time Injury,Day,1–3 years,Inadequate supervision,6,No
+INC-0060,2023,11,Maintenance,Vehicle Collision,First Aid,Day,1–3 years,Equipment failure,0,Yes
+INC-0061,2024,11,Tailings Management,Vehicle Collision,Medical Treatment,Night,3–5 years,Inadequate procedure,1,Partial
+INC-0062,2023,10,Logistics & Transport,Chemical Exposure,Lost Time Injury,Day,3–5 years,Inadequate supervision,6,Yes
+INC-0063,2019,8,Drilling & Blasting,Vehicle Collision,Near Miss,Day,3–5 years,Human error,0,No
+INC-0064,2021,8,Maintenance,Manual Handling,First Aid,Night,<1 year,Inadequate procedure,0,Yes
+INC-0065,2022,4,Maintenance,Near Miss,Lost Time Injury,Day,1–3 years,Insufficient training,6,Partial
+INC-0066,2020,3,Underground Mining,Slip / Trip / Fall,Medical Treatment,Day,>10 years,Equipment failure,1,Partial
+INC-0067,2024,10,Drilling & Blasting,Struck by Object,Medical Treatment,Day,3–5 years,Fatigue,1,Partial
+INC-0068,2024,6,Processing Plant,Vehicle Collision,First Aid,Day,1–3 years,Insufficient training,0,Yes
+INC-0069,2024,12,Logistics & Transport,Manual Handling,Near Miss,Afternoon,5–10 years,Equipment failure,0,Yes
+INC-0070,2022,6,Tailings Management,Manual Handling,Near Miss,Day,3–5 years,Poor communication,0,Partial
+INC-0071,2024,6,Tailings Management,Struck by Object,Medical Treatment,Night,<1 year,Human error,1,Yes
+INC-0072,2019,9,Open Pit Operations,Electrical Incident,Near Miss,Day,1–3 years,Insufficient training,0,Partial
+INC-0073,2021,12,Underground Mining,Slip / Trip / Fall,Near Miss,Night,<1 year,Environmental condition,0,Yes
+INC-0074,2022,3,Open Pit Operations,Struck by Object,First Aid,Day,1–3 years,Equipment failure,0,Yes
+INC-0075,2023,6,Open Pit Operations,Slip / Trip / Fall,First Aid,Day,1–3 years,Human error,0,Partial
+INC-0076,2022,9,Underground Mining,Manual Handling,First Aid,Afternoon,<1 year,Insufficient training,0,Yes
+INC-0077,2019,4,Underground Mining,Near Miss,First Aid,Day,3–5 years,Insufficient training,0,Yes
+INC-0078,2021,7,Tailings Management,Equipment Contact,Near Miss,Day,1–3 years,Insufficient training,0,Yes
+INC-0079,2021,7,HSE / Supervision,Vehicle Collision,Near Miss,Day,5–10 years,Inadequate procedure,0,No
+INC-0080,2021,10,Underground Mining,Vehicle Collision,Lost Time Injury,Night,>10 years,Inadequate procedure,2,Yes
+INC-0081,2020,4,Open Pit Operations,Slip / Trip / Fall,Near Miss,Night,<1 year,Equipment failure,0,Yes
+INC-0082,2021,10,Electrical,Fire / Explosion,Near Miss,Day,3–5 years,Insufficient training,0,Partial
+INC-0083,2022,9,Processing Plant,Equipment Contact,Lost Time Injury,Day,<1 year,Inadequate supervision,28,No
+INC-0084,2023,7,Underground Mining,Near Miss,First Aid,Day,3–5 years,Human error,0,No
+INC-0085,2023,8,Electrical,Struck by Object,Medical Treatment,Day,5–10 years,Inadequate procedure,1,Yes
+INC-0086,2022,7,Tailings Management,Manual Handling,Medical Treatment,Day,5–10 years,Inadequate supervision,1,Yes
+INC-0087,2022,6,Open Pit Operations,Manual Handling,First Aid,Day,<1 year,PPE non-compliance,0,Yes
+INC-0088,2023,8,Open Pit Operations,Slip / Trip / Fall,First Aid,Day,<1 year,Human error,0,Partial
+INC-0089,2024,1,Underground Mining,Slip / Trip / Fall,Lost Time Injury,Night,1–3 years,Inadequate supervision,32,Yes
+INC-0090,2023,12,Processing Plant,Equipment Contact,First Aid,Night,1–3 years,PPE non-compliance,0,Partial
+INC-0091,2023,11,Electrical,Chemical Exposure,Lost Time Injury,Night,3–5 years,Inadequate procedure,24,Yes
+INC-0092,2024,5,Electrical,Vehicle Collision,First Aid,Night,<1 year,Inadequate procedure,0,Partial
+INC-0093,2019,11,Underground Mining,Slip / Trip / Fall,Lost Time Injury,Day,>10 years,Equipment failure,5,Yes
+INC-0094,2024,1,Open Pit Operations,Struck by Object,Medical Treatment,Night,1–3 years,Inadequate procedure,1,Yes
+INC-0095,2021,3,Open Pit Operations,Struck by Object,Near Miss,Day,>10 years,Human error,0,Partial
+INC-0096,2022,6,Underground Mining,Fire / Explosion,Lost Time Injury,Night,5–10 years,Fatigue,3,Yes
+INC-0097,2023,8,Open Pit Operations,Slip / Trip / Fall,First Aid,Day,1–3 years,Insufficient training,0,No
+INC-0098,2023,7,Logistics & Transport,Equipment Contact,First Aid,Day,3–5 years,Insufficient training,0,Partial
+INC-0099,2020,9,Open Pit Operations,Electrical Incident,First Aid,Day,5–10 years,Equipment failure,0,Yes
+INC-0100,2023,5,Maintenance,Slip / Trip / Fall,First Aid,Night,3–5 years,Human error,0,Yes
+INC-0101,2019,5,HSE / Supervision,Slip / Trip / Fall,First Aid,Night,1–3 years,Equipment failure,0,Yes
+INC-0102,2021,1,Processing Plant,Chemical Exposure,First Aid,Afternoon,>10 years,Inadequate supervision,0,Yes
+INC-0103,2024,3,Tailings Management,Slip / Trip / Fall,Medical Treatment,Night,3–5 years,Insufficient training,1,No
+INC-0104,2021,2,Maintenance,Slip / Trip / Fall,Medical Treatment,Afternoon,1–3 years,Poor communication,1,Yes
+INC-0105,2022,11,Underground Mining,Struck by Object,First Aid,Night,1–3 years,Human error,0,Yes
+INC-0106,2023,12,Underground Mining,Slip / Trip / Fall,Near Miss,Day,>10 years,Insufficient training,0,Partial
+INC-0107,2024,9,Electrical,Manual Handling,First Aid,Day,>10 years,Equipment failure,0,Partial
+INC-0108,2023,6,Underground Mining,Slip / Trip / Fall,Near Miss,Night,<1 year,Equipment failure,0,Yes
+INC-0109,2019,10,Open Pit Operations,Chemical Exposure,First Aid,Night,<1 year,Environmental condition,0,Yes
+INC-0110,2021,1,Underground Mining,Chemical Exposure,Medical Treatment,Day,1–3 years,Insufficient training,1,No
+INC-0111,2022,5,Processing Plant,Struck by Object,First Aid,Night,1–3 years,Insufficient training,0,Yes
+INC-0112,2019,5,Maintenance,Near Miss,Near Miss,Afternoon,>10 years,Inadequate procedure,0,No
+INC-0113,2022,1,Logistics & Transport,Vehicle Collision,Near Miss,Night,>10 years,Equipment failure,0,Yes
+INC-0114,2022,1,Logistics & Transport,Manual Handling,Near Miss,Night,1–3 years,Poor communication,0,Yes
+INC-0115,2024,11,Underground Mining,Slip / Trip / Fall,First Aid,Day,3–5 years,Inadequate supervision,0,Yes
+INC-0116,2024,12,Processing Plant,Slip / Trip / Fall,Near Miss,Day,3–5 years,Inadequate procedure,0,Partial
+INC-0117,2019,2,Maintenance,Slip / Trip / Fall,First Aid,Afternoon,1–3 years,Equipment failure,0,Yes
+INC-0118,2020,3,Underground Mining,Equipment Contact,Near Miss,Day,3–5 years,Environmental condition,0,Yes
+INC-0119,2023,5,Underground Mining,Manual Handling,Medical Treatment,Afternoon,3–5 years,Inadequate procedure,1,Yes
+INC-0120,2019,8,Underground Mining,Struck by Object,Near Miss,Afternoon,1–3 years,Poor communication,0,Yes
+INC-0121,2020,12,Underground Mining,Slip / Trip / Fall,Lost Time Injury,Day,<1 year,Inadequate supervision,4,No
+INC-0122,2022,8,Maintenance,Struck by Object,Near Miss,Day,>10 years,Insufficient training,0,No
+INC-0123,2020,11,Processing Plant,Fire / Explosion,First Aid,Afternoon,1–3 years,Human error,0,Yes
+INC-0124,2023,9,Maintenance,Equipment Contact,Near Miss,Afternoon,1–3 years,Inadequate procedure,0,Partial
+INC-0125,2024,8,Electrical,Vehicle Collision,Near Miss,Night,>10 years,Insufficient training,0,Yes
+INC-0126,2019,2,Underground Mining,Fire / Explosion,First Aid,Night,5–10 years,Human error,0,Yes
+INC-0127,2022,9,Underground Mining,Equipment Contact,Near Miss,Day,3–5 years,Insufficient training,0,Partial
+INC-0128,2023,6,Open Pit Operations,Vehicle Collision,Near Miss,Night,1–3 years,Human error,0,Yes
+INC-0129,2024,7,HSE / Supervision,Vehicle Collision,Near Miss,Night,1–3 years,Environmental condition,0,Yes
+INC-0130,2021,9,Drilling & Blasting,Struck by Object,Near Miss,Day,5–10 years,Environmental condition,0,No
+INC-0131,2020,11,Processing Plant,Struck by Object,Near Miss,Day,<1 year,Fatigue,0,No
+INC-0132,2024,4,Open Pit Operations,Manual Handling,First Aid,Day,<1 year,Human error,0,No
+INC-0133,2024,10,Underground Mining,Equipment Contact,Lost Time Injury,Day,<1 year,Equipment failure,14,Yes
+INC-0134,2020,8,Maintenance,Chemical Exposure,Near Miss,Afternoon,<1 year,Insufficient training,0,Yes
+INC-0135,2022,3,Drilling & Blasting,Slip / Trip / Fall,First Aid,Night,3–5 years,Environmental condition,0,Partial
+INC-0136,2023,7,Open Pit Operations,Electrical Incident,Near Miss,Day,<1 year,Equipment failure,0,Yes
+INC-0137,2024,1,Open Pit Operations,Chemical Exposure,Near Miss,Day,1–3 years,Poor communication,0,Partial
+INC-0138,2020,2,Drilling & Blasting,Slip / Trip / Fall,Medical Treatment,Day,5–10 years,PPE non-compliance,1,Yes
+INC-0139,2023,6,Open Pit Operations,Equipment Contact,Medical Treatment,Afternoon,5–10 years,Inadequate procedure,1,Yes
+INC-0140,2023,7,Maintenance,Equipment Contact,Lost Time Injury,Night,1–3 years,Inadequate procedure,7,Yes
+INC-0141,2022,5,Processing Plant,Struck by Object,First Aid,Day,3–5 years,Fatigue,0,Partial
+INC-0142,2020,6,Maintenance,Electrical Incident,Lost Time Injury,Day,3–5 years,Fatigue,3,No
+INC-0143,2019,2,Underground Mining,Slip / Trip / Fall,Medical Treatment,Night,3–5 years,Inadequate procedure,1,Yes
+INC-0144,2021,8,Maintenance,Equipment Contact,Near Miss,Night,<1 year,Human error,0,Yes
+INC-0145,2023,6,Underground Mining,Vehicle Collision,Lost Time Injury,Day,1–3 years,Inadequate procedure,3,Yes
+INC-0146,2019,4,Open Pit Operations,Struck by Object,First Aid,Day,3–5 years,Inadequate procedure,0,Yes
+INC-0147,2019,9,Tailings Management,Electrical Incident,First Aid,Day,1–3 years,Poor communication,0,No
+INC-0148,2021,3,Underground Mining,Struck by Object,Near Miss,Day,<1 year,Insufficient training,0,Yes
+INC-0149,2019,11,Open Pit Operations,Vehicle Collision,Medical Treatment,Afternoon,1–3 years,Fatigue,1,Yes
+INC-0150,2020,6,Underground Mining,Equipment Contact,First Aid,Day,5–10 years,Poor communication,0,Yes
+INC-0151,2019,7,Drilling & Blasting,Slip / Trip / Fall,Near Miss,Night,3–5 years,Human error,0,Yes
+INC-0152,2022,12,Underground Mining,Electrical Incident,Near Miss,Night,5–10 years,Equipment failure,0,Yes
+INC-0153,2023,7,Open Pit Operations,Slip / Trip / Fall,Lost Time Injury,Day,5–10 years,Inadequate supervision,1,Yes
+INC-0154,2021,2,Tailings Management,Slip / Trip / Fall,Near Miss,Day,1–3 years,Fatigue,0,Yes
+INC-0155,2019,5,Maintenance,Struck by Object,Medical Treatment,Afternoon,1–3 years,Insufficient training,1,Partial
+INC-0156,2021,4,Processing Plant,Manual Handling,First Aid,Night,5–10 years,Environmental condition,0,No
+INC-0157,2022,9,Processing Plant,Chemical Exposure,Near Miss,Afternoon,<1 year,Insufficient training,0,Yes
+INC-0158,2024,5,Open Pit Operations,Equipment Contact,Near Miss,Night,1–3 years,Human error,0,Yes
+INC-0159,2024,7,Tailings Management,Manual Handling,Lost Time Injury,Afternoon,3–5 years,Insufficient training,2,No
+INC-0160,2020,8,Processing Plant,Struck by Object,Near Miss,Day,5–10 years,Equipment failure,0,Yes
+INC-0161,2019,1,Tailings Management,Slip / Trip / Fall,Medical Treatment,Day,<1 year,Inadequate supervision,1,Yes
+INC-0162,2024,5,Underground Mining,Chemical Exposure,Medical Treatment,Day,5–10 years,Inadequate procedure,1,Partial
+INC-0163,2024,8,Maintenance,Manual Handling,First Aid,Day,3–5 years,Inadequate procedure,0,Partial
+INC-0164,2022,7,Open Pit Operations,Equipment Contact,First Aid,Day,<1 year,Insufficient training,0,No
+INC-0165,2023,12,HSE / Supervision,Electrical Incident,First Aid,Afternoon,<1 year,Environmental condition,0,Yes
+INC-0166,2024,7,Open Pit Operations,Manual Handling,Near Miss,Day,1–3 years,Insufficient training,0,Partial
+INC-0167,2022,12,Tailings Management,Fire / Explosion,First Aid,Night,>10 years,PPE non-compliance,0,Partial
+INC-0168,2024,6,Open Pit Operations,Slip / Trip / Fall,Medical Treatment,Day,1–3 years,Environmental condition,1,Yes
+INC-0169,2019,1,Open Pit Operations,Manual Handling,Medical Treatment,Day,1–3 years,Poor communication,1,Yes
+INC-0170,2021,9,Open Pit Operations,Manual Handling,First Aid,Day,<1 year,Human error,0,Yes
+INC-0171,2021,11,Underground Mining,Electrical Incident,Medical Treatment,Day,>10 years,Inadequate supervision,1,Partial
+INC-0172,2019,4,Maintenance,Fire / Explosion,Near Miss,Night,5–10 years,Inadequate procedure,0,Yes
+INC-0173,2024,3,Processing Plant,Struck by Object,First Aid,Day,1–3 years,Fatigue,0,Yes
+INC-0174,2019,11,Maintenance,Manual Handling,Lost Time Injury,Night,5–10 years,Poor communication,2,Partial
+INC-0175,2023,5,Underground Mining,Slip / Trip / Fall,Near Miss,Day,5–10 years,Environmental condition,0,No
+INC-0176,2019,2,Maintenance,Slip / Trip / Fall,First Aid,Afternoon,5–10 years,Poor communication,0,Partial
+INC-0177,2021,5,Processing Plant,Struck by Object,First Aid,Day,3–5 years,Human error,0,No
+INC-0178,2021,7,Electrical,Slip / Trip / Fall,Near Miss,Day,1–3 years,Poor communication,0,Yes
+INC-0179,2020,10,Maintenance,Manual Handling,Medical Treatment,Day,>10 years,Human error,1,Yes
+INC-0180,2022,9,Processing Plant,Vehicle Collision,Medical Treatment,Night,>10 years,Fatigue,1,No
+INC-0181,2022,11,Underground Mining,Vehicle Collision,Medical Treatment,Night,>10 years,Poor communication,1,No
+INC-0182,2021,7,Maintenance,Struck by Object,Medical Treatment,Afternoon,3–5 years,Inadequate procedure,1,Yes
+INC-0183,2023,1,Processing Plant,Struck by Object,First Aid,Day,3–5 years,Inadequate supervision,0,Partial
+INC-0184,2020,1,Processing Plant,Chemical Exposure,Medical Treatment,Day,5–10 years,Human error,1,Yes
+INC-0185,2020,3,Underground Mining,Slip / Trip / Fall,First Aid,Day,1–3 years,Environmental condition,0,Yes
+INC-0186,2021,1,Logistics & Transport,Struck by Object,Lost Time Injury,Day,>10 years,Environmental condition,2,Yes
+INC-0187,2021,4,Maintenance,Manual Handling,Lost Time Injury,Night,5–10 years,Poor communication,3,Partial
+INC-0188,2020,3,Maintenance,Struck by Object,Near Miss,Day,3–5 years,Poor communication,0,Yes
+INC-0189,2024,11,Processing Plant,Manual Handling,First Aid,Afternoon,>10 years,Insufficient training,0,Yes
+INC-0190,2024,5,Tailings Management,Chemical Exposure,Near Miss,Day,5–10 years,Environmental condition,0,Partial
+INC-0191,2019,6,Tailings Management,Struck by Object,First Aid,Day,5–10 years,Insufficient training,0,Partial
+INC-0192,2021,10,Open Pit Operations,Struck by Object,First Aid,Afternoon,1–3 years,Inadequate procedure,0,Partial
+INC-0193,2020,4,Open Pit Operations,Struck by Object,Near Miss,Afternoon,>10 years,Insufficient training,0,Yes
+INC-0194,2022,7,Maintenance,Vehicle Collision,Fatality,Day,1–3 years,Fatigue,0,Yes
+INC-0195,2021,9,Open Pit Operations,Equipment Contact,Near Miss,Day,1–3 years,Inadequate procedure,0,Yes
+INC-0196,2022,2,Processing Plant,Slip / Trip / Fall,Medical Treatment,Night,5–10 years,Inadequate procedure,1,Yes
+INC-0197,2024,10,Processing Plant,Equipment Contact,Lost Time Injury,Day,<1 year,Insufficient training,15,Yes
+INC-0198,2021,5,Underground Mining,Struck by Object,First Aid,Day,5–10 years,Inadequate supervision,0,Partial
+INC-0199,2023,4,Tailings Management,Manual Handling,First Aid,Day,<1 year,Human error,0,No
+INC-0200,2022,9,Processing Plant,Manual Handling,Medical Treatment,Night,5–10 years,Inadequate procedure,1,Yes
+INC-0201,2023,1,Processing Plant,Equipment Contact,Near Miss,Day,5–10 years,Environmental condition,0,Partial
+INC-0202,2019,12,Underground Mining,Slip / Trip / Fall,Near Miss,Afternoon,3–5 years,Poor communication,0,Yes
+INC-0203,2023,5,Underground Mining,Chemical Exposure,Medical Treatment,Night,>10 years,Human error,1,No
+INC-0204,2024,10,Maintenance,Electrical Incident,Near Miss,Night,5–10 years,Fatigue,0,No
+INC-0205,2022,2,Processing Plant,Struck by Object,First Aid,Night,5–10 years,Human error,0,Yes
+INC-0206,2021,8,Maintenance,Manual Handling,Near Miss,Afternoon,>10 years,Fatigue,0,No
+INC-0207,2023,11,Logistics & Transport,Slip / Trip / Fall,Medical Treatment,Day,<1 year,Human error,1,Partial
+INC-0208,2023,10,Underground Mining,Slip / Trip / Fall,Near Miss,Afternoon,1–3 years,Insufficient training,0,Yes
+INC-0209,2023,11,Open Pit Operations,Manual Handling,Near Miss,Night,1–3 years,Environmental condition,0,Yes
+INC-0210,2020,3,Maintenance,Fire / Explosion,Lost Time Injury,Day,1–3 years,Human error,1,Yes
+INC-0211,2024,11,Maintenance,Vehicle Collision,Near Miss,Night,1–3 years,Human error,0,Partial
+INC-0212,2024,5,Maintenance,Struck by Object,Near Miss,Night,<1 year,Insufficient training,0,Yes
+INC-0213,2021,4,Processing Plant,Equipment Contact,Medical Treatment,Night,<1 year,Insufficient training,1,No
+INC-0214,2022,5,Maintenance,Manual Handling,Near Miss,Day,<1 year,Poor communication,0,Yes
+INC-0215,2019,6,Underground Mining,Struck by Object,Near Miss,Afternoon,1–3 years,PPE non-compliance,0,Yes
+INC-0216,2024,10,Electrical,Struck by Object,First Aid,Day,1–3 years,Environmental condition,0,Partial
+INC-0217,2024,9,Open Pit Operations,Struck by Object,First Aid,Afternoon,1–3 years,Inadequate procedure,0,Partial
+INC-0218,2023,10,Logistics & Transport,Manual Handling,Near Miss,Afternoon,1–3 years,Fatigue,0,Yes
+INC-0219,2023,2,Open Pit Operations,Struck by Object,Medical Treatment,Afternoon,3–5 years,Equipment failure,1,Yes
+INC-0220,2020,11,Processing Plant,Equipment Contact,Medical Treatment,Day,5–10 years,Inadequate procedure,1,Yes
+INC-0221,2021,4,Maintenance,Struck by Object,Medical Treatment,Day,<1 year,Equipment failure,1,No
+INC-0222,2020,10,Tailings Management,Manual Handling,Near Miss,Night,5–10 years,Insufficient training,0,Partial
+INC-0223,2022,1,Underground Mining,Fire / Explosion,First Aid,Night,>10 years,Inadequate procedure,0,Yes
+INC-0224,2019,2,Tailings Management,Slip / Trip / Fall,First Aid,Night,5–10 years,Equipment failure,0,Yes
+INC-0225,2024,3,Electrical,Manual Handling,Lost Time Injury,Afternoon,1–3 years,Environmental condition,7,Yes
+INC-0226,2022,4,Logistics & Transport,Near Miss,Near Miss,Day,5–10 years,Environmental condition,0,No
+INC-0227,2022,1,Open Pit Operations,Slip / Trip / Fall,First Aid,Night,<1 year,Fatigue,0,Yes
+INC-0228,2019,9,Processing Plant,Equipment Contact,First Aid,Afternoon,5–10 years,Human error,0,Yes
+INC-0229,2023,6,Maintenance,Slip / Trip / Fall,First Aid,Night,5–10 years,Inadequate supervision,0,Yes
+INC-0230,2024,4,Open Pit Operations,Vehicle Collision,Near Miss,Day,3–5 years,Human error,0,Yes
+INC-0231,2023,2,Underground Mining,Manual Handling,Medical Treatment,Day,>10 years,Equipment failure,1,Yes
+INC-0232,2020,1,Processing Plant,Slip / Trip / Fall,Near Miss,Afternoon,5–10 years,Insufficient training,0,No
+INC-0233,2023,10,Maintenance,Struck by Object,Fatality,Night,5–10 years,Human error,0,Yes
+INC-0234,2020,9,Open Pit Operations,Struck by Object,Near Miss,Afternoon,<1 year,Poor communication,0,Yes
+INC-0235,2024,9,Processing Plant,Near Miss,Near Miss,Afternoon,<1 year,Insufficient training,0,Yes
+INC-0236,2022,3,Drilling & Blasting,Manual Handling,Near Miss,Day,3–5 years,Human error,0,Partial
+INC-0237,2021,11,Logistics & Transport,Fire / Explosion,Lost Time Injury,Night,5–10 years,Equipment failure,5,Yes
+INC-0238,2022,8,Underground Mining,Equipment Contact,Near Miss,Day,3–5 years,Human error,0,No
+INC-0239,2023,3,Maintenance,Struck by Object,Medical Treatment,Night,5–10 years,Poor communication,1,Yes
+INC-0240,2020,5,Underground Mining,Vehicle Collision,Lost Time Injury,Day,5–10 years,Insufficient training,2,Yes
+INC-0241,2024,8,Underground Mining,Near Miss,Lost Time Injury,Day,5–10 years,Inadequate supervision,12,Partial
+INC-0242,2021,5,Drilling & Blasting,Manual Handling,First Aid,Day,>10 years,Environmental condition,0,Yes
+INC-0243,2024,4,Underground Mining,Manual Handling,First Aid,Night,<1 year,Equipment failure,0,Yes
+INC-0244,2024,11,Maintenance,Manual Handling,Lost Time Injury,Night,1–3 years,Insufficient training,2,Yes
+INC-0245,2019,1,Logistics & Transport,Equipment Contact,Near Miss,Night,1–3 years,Inadequate procedure,0,Yes
+INC-0246,2023,12,Processing Plant,Equipment Contact,Fatality,Night,1–3 years,Insufficient training,0,Yes
+INC-0247,2021,2,Underground Mining,Electrical Incident,Lost Time Injury,Day,<1 year,Insufficient training,2,Partial
+INC-0248,2023,1,Open Pit Operations,Chemical Exposure,Lost Time Injury,Day,3–5 years,Environmental condition,22,Yes
+INC-0249,2022,2,Processing Plant,Electrical Incident,Lost Time Injury,Afternoon,<1 year,Insufficient training,12,Yes
+INC-0250,2022,7,Open Pit Operations,Fire / Explosion,Lost Time Injury,Day,1–3 years,Insufficient training,16,Yes
+INC-0251,2024,2,Underground Mining,Equipment Contact,Lost Time Injury,Afternoon,1–3 years,Poor communication,13,No
+INC-0252,2019,6,Electrical,Manual Handling,Medical Treatment,Day,5–10 years,Environmental condition,1,No
+INC-0253,2022,10,Underground Mining,Manual Handling,Near Miss,Afternoon,1–3 years,Poor communication,0,Yes
+INC-0254,2021,5,Electrical,Fire / Explosion,Near Miss,Day,1–3 years,Insufficient training,0,No
+INC-0255,2019,9,Open Pit Operations,Electrical Incident,First Aid,Day,>10 years,Human error,0,Partial
+INC-0256,2023,4,Logistics & Transport,Equipment Contact,Medical Treatment,Afternoon,3–5 years,Insufficient training,1,Partial
+INC-0257,2022,4,HSE / Supervision,Electrical Incident,First Aid,Afternoon,>10 years,Human error,0,Partial
+INC-0258,2024,10,Processing Plant,Fire / Explosion,First Aid,Night,5–10 years,PPE non-compliance,0,No
+INC-0259,2022,11,Electrical,Manual Handling,Near Miss,Night,>10 years,Human error,0,Partial
+INC-0260,2021,8,HSE / Supervision,Struck by Object,Medical Treatment,Day,3–5 years,Fatigue,1,Partial
+INC-0261,2024,8,Processing Plant,Equipment Contact,Medical Treatment,Day,1–3 years,Environmental condition,1,Partial
+INC-0262,2019,12,Maintenance,Struck by Object,First Aid,Day,1–3 years,Human error,0,No
+INC-0263,2019,2,Electrical,Vehicle Collision,Lost Time Injury,Afternoon,<1 year,Fatigue,6,Partial
+INC-0264,2023,8,Underground Mining,Near Miss,Medical Treatment,Night,1–3 years,Human error,1,Yes
+INC-0265,2021,8,Electrical,Electrical Incident,Near Miss,Night,<1 year,Insufficient training,0,Yes
+INC-0266,2021,12,Underground Mining,Manual Handling,Near Miss,Afternoon,3–5 years,Human error,0,Yes
+INC-0267,2024,9,Underground Mining,Struck by Object,Lost Time Injury,Night,>10 years,Human error,8,Yes
+INC-0268,2021,11,Underground Mining,Struck by Object,First Aid,Afternoon,1–3 years,Human error,0,Yes
+INC-0269,2024,12,Tailings Management,Electrical Incident,Near Miss,Day,1–3 years,Insufficient training,0,No
+INC-0270,2023,3,Underground Mining,Slip / Trip / Fall,Lost Time Injury,Day,5–10 years,Inadequate procedure,6,No
+INC-0271,2021,12,Open Pit Operations,Manual Handling,Near Miss,Night,<1 year,Inadequate procedure,0,Yes
+INC-0272,2019,11,Open Pit Operations,Vehicle Collision,Near Miss,Day,1–3 years,Equipment failure,0,Partial
+INC-0273,2020,9,Underground Mining,Struck by Object,Medical Treatment,Night,3–5 years,Fatigue,1,Yes
+INC-0274,2024,5,Electrical,Fire / Explosion,First Aid,Day,5–10 years,Insufficient training,0,No
+INC-0275,2021,4,Logistics & Transport,Slip / Trip / Fall,First Aid,Afternoon,1–3 years,Poor communication,0,Yes
+INC-0276,2020,5,Open Pit Operations,Manual Handling,Near Miss,Afternoon,3–5 years,Insufficient training,0,Partial
+INC-0277,2021,9,Processing Plant,Manual Handling,Medical Treatment,Day,3–5 years,Equipment failure,1,Yes
+INC-0278,2024,8,Open Pit Operations,Vehicle Collision,Near Miss,Afternoon,3–5 years,Fatigue,0,Yes
+INC-0279,2020,11,Logistics & Transport,Slip / Trip / Fall,Medical Treatment,Afternoon,5–10 years,Equipment failure,1,Yes
+INC-0280,2023,7,Processing Plant,Slip / Trip / Fall,First Aid,Day,>10 years,Environmental condition,0,Yes
+INC-0281,2019,1,Underground Mining,Manual Handling,Lost Time Injury,Day,3–5 years,Human error,5,Yes
+INC-0282,2024,6,Maintenance,Slip / Trip / Fall,Near Miss,Afternoon,5–10 years,Inadequate procedure,0,No
+INC-0283,2022,8,Open Pit Operations,Manual Handling,First Aid,Day,3–5 years,Equipment failure,0,No
+INC-0284,2019,7,Maintenance,Slip / Trip / Fall,Near Miss,Day,5–10 years,Insufficient training,0,No
+INC-0285,2024,8,HSE / Supervision,Fire / Explosion,Near Miss,Day,>10 years,Fatigue,0,Yes
+INC-0286,2021,11,Underground Mining,Equipment Contact,First Aid,Night,3–5 years,Equipment failure,0,Yes
+INC-0287,2023,12,Drilling & Blasting,Equipment Contact,First Aid,Night,1–3 years,Poor communication,0,No
+INC-0288,2022,9,Maintenance,Struck by Object,Lost Time Injury,Day,1–3 years,Fatigue,1,Yes
+INC-0289,2019,12,Underground Mining,Near Miss,First Aid,Afternoon,5–10 years,Environmental condition,0,Yes
+INC-0290,2019,1,Maintenance,Struck by Object,First Aid,Afternoon,1–3 years,Fatigue,0,Yes
+INC-0291,2020,2,Underground Mining,Equipment Contact,Near Miss,Afternoon,5–10 years,Human error,0,Yes
+INC-0292,2020,6,Open Pit Operations,Manual Handling,Near Miss,Day,3–5 years,Insufficient training,0,Partial
+INC-0293,2019,12,Underground Mining,Equipment Contact,First Aid,Afternoon,>10 years,Environmental condition,0,Partial
+INC-0294,2019,3,Processing Plant,Manual Handling,Near Miss,Day,3–5 years,Fatigue,0,Yes
+INC-0295,2024,8,Maintenance,Manual Handling,Near Miss,Day,1–3 years,Insufficient training,0,Yes
+INC-0296,2019,7,Open Pit Operations,Electrical Incident,Medical Treatment,Night,<1 year,Human error,1,Yes
+INC-0297,2022,6,Underground Mining,Manual Handling,Medical Treatment,Day,3–5 years,Human error,1,No
+INC-0298,2019,10,Underground Mining,Fire / Explosion,Near Miss,Day,5–10 years,Environmental condition,0,Partial
+INC-0299,2020,9,Processing Plant,Electrical Incident,Near Miss,Day,5–10 years,Poor communication,0,Partial
+INC-0300,2023,11,Tailings Management,Manual Handling,Near Miss,Day,5–10 years,Insufficient training,0,Yes
+INC-0301,2024,7,Processing Plant,Slip / Trip / Fall,First Aid,Afternoon,5–10 years,Insufficient training,0,Partial
+INC-0302,2022,2,Underground Mining,Electrical Incident,Near Miss,Day,1–3 years,Inadequate procedure,0,Yes
+INC-0303,2019,4,Maintenance,Slip / Trip / Fall,Near Miss,Day,>10 years,Environmental condition,0,Yes
+INC-0304,2024,6,Drilling & Blasting,Slip / Trip / Fall,Near Miss,Night,1–3 years,Poor communication,0,No
+INC-0305,2019,5,Electrical,Struck by Object,Lost Time Injury,Night,>10 years,Human error,25,No
+INC-0306,2021,12,Logistics & Transport,Electrical Incident,Lost Time Injury,Day,5–10 years,Inadequate procedure,4,Yes
+INC-0307,2022,3,Processing Plant,Equipment Contact,Lost Time Injury,Day,>10 years,Insufficient training,31,No
+INC-0308,2024,1,Processing Plant,Near Miss,Medical Treatment,Day,5–10 years,Insufficient training,1,Yes
+INC-0309,2024,3,Open Pit Operations,Vehicle Collision,Medical Treatment,Afternoon,1–3 years,Equipment failure,1,Yes
+INC-0310,2022,10,Maintenance,Slip / Trip / Fall,First Aid,Afternoon,<1 year,Environmental condition,0,Yes
+INC-0311,2021,5,Logistics & Transport,Struck by Object,Near Miss,Afternoon,5–10 years,Equipment failure,0,Yes
+INC-0312,2024,12,Drilling & Blasting,Equipment Contact,Medical Treatment,Day,5–10 years,Human error,1,Yes
+INC-0313,2024,1,Processing Plant,Chemical Exposure,Near Miss,Day,5–10 years,Insufficient training,0,No
+INC-0314,2024,10,Maintenance,Slip / Trip / Fall,First Aid,Afternoon,>10 years,Equipment failure,0,Yes
+INC-0315,2023,3,Underground Mining,Slip / Trip / Fall,Medical Treatment,Night,3–5 years,Human error,1,Yes
+INC-0316,2019,8,Underground Mining,Manual Handling,Lost Time Injury,Afternoon,1–3 years,Inadequate supervision,9,Partial
+INC-0317,2021,10,Processing Plant,Struck by Object,Medical Treatment,Day,5–10 years,Inadequate procedure,1,Yes
+INC-0318,2022,1,Drilling & Blasting,Chemical Exposure,First Aid,Night,3–5 years,Human error,0,Yes
+INC-0319,2022,12,Underground Mining,Manual Handling,Near Miss,Day,1–3 years,Insufficient training,0,Yes
+INC-0320,2024,2,Underground Mining,Slip / Trip / Fall,First Aid,Afternoon,<1 year,Human error,0,Yes
+INC-0321,2020,3,Maintenance,Struck by Object,Near Miss,Afternoon,>10 years,Equipment failure,0,Yes
+INC-0322,2023,6,Underground Mining,Struck by Object,First Aid,Day,1–3 years,Poor communication,0,Partial
+INC-0323,2021,6,Drilling & Blasting,Slip / Trip / Fall,First Aid,Day,3–5 years,Equipment failure,0,No
+INC-0324,2023,7,Electrical,Slip / Trip / Fall,Near Miss,Day,<1 year,Human error,0,Yes
+INC-0325,2020,11,Open Pit Operations,Equipment Contact,Lost Time Injury,Night,1–3 years,Poor communication,4,Partial
+INC-0326,2022,12,Tailings Management,Electrical Incident,First Aid,Day,1–3 years,Equipment failure,0,Yes
+INC-0327,2019,11,Processing Plant,Vehicle Collision,First Aid,Night,5–10 years,Human error,0,Yes
+INC-0328,2020,4,Underground Mining,Equipment Contact,Fatality,Day,3–5 years,Human error,0,Yes
+INC-0329,2024,11,Drilling & Blasting,Vehicle Collision,Lost Time Injury,Day,<1 year,Inadequate procedure,2,No
+INC-0330,2021,2,HSE / Supervision,Slip / Trip / Fall,Near Miss,Afternoon,1–3 years,Inadequate procedure,0,No
+INC-0331,2024,11,Open Pit Operations,Equipment Contact,First Aid,Day,<1 year,Environmental condition,0,Yes
+INC-0332,2022,11,Open Pit Operations,Fire / Explosion,Near Miss,Day,3–5 years,Inadequate procedure,0,Yes
+INC-0333,2019,9,Open Pit Operations,Electrical Incident,First Aid,Day,1–3 years,Human error,0,No
+INC-0334,2023,5,Electrical,Manual Handling,Near Miss,Afternoon,5–10 years,Poor communication,0,Yes
+INC-0335,2019,2,Underground Mining,Equipment Contact,Near Miss,Day,1–3 years,Inadequate procedure,0,Yes
+INC-0336,2024,3,Underground Mining,Vehicle Collision,Near Miss,Night,<1 year,Insufficient training,0,No
+INC-0337,2019,5,Processing Plant,Electrical Incident,Near Miss,Day,3–5 years,Fatigue,0,No
+INC-0338,2023,2,Underground Mining,Near Miss,First Aid,Afternoon,5–10 years,Insufficient training,0,No
+INC-0339,2020,7,Maintenance,Fire / Explosion,Medical Treatment,Night,<1 year,Insufficient training,1,Partial
+INC-0340,2021,2,Drilling & Blasting,Slip / Trip / Fall,Fatality,Day,3–5 years,Inadequate procedure,0,Partial
+INC-0341,2024,1,Electrical,Manual Handling,First Aid,Day,>10 years,Insufficient training,0,Yes
+INC-0342,2022,4,Electrical,Electrical Incident,First Aid,Night,1–3 years,Insufficient training,0,Yes
+INC-0343,2023,2,Underground Mining,Equipment Contact,First Aid,Afternoon,5–10 years,Equipment failure,0,Partial
+INC-0344,2023,5,Logistics & Transport,Equipment Contact,Fatality,Afternoon,5–10 years,Human error,0,Yes
+INC-0345,2019,1,Open Pit Operations,Struck by Object,Near Miss,Night,3–5 years,Poor communication,0,Yes
+INC-0346,2024,9,Underground Mining,Manual Handling,Near Miss,Day,1–3 years,Inadequate procedure,0,Yes
+INC-0347,2024,10,Tailings Management,Struck by Object,Lost Time Injury,Afternoon,<1 year,Insufficient training,4,Yes
+INC-0348,2020,5,Open Pit Operations,Struck by Object,Medical Treatment,Day,<1 year,Fatigue,1,Partial
+INC-0349,2022,5,HSE / Supervision,Vehicle Collision,Medical Treatment,Day,1–3 years,Equipment failure,1,Partial
+INC-0350,2021,6,Electrical,Slip / Trip / Fall,Near Miss,Day,1–3 years,Equipment failure,0,Partial
+INC-0351,2023,6,HSE / Supervision,Slip / Trip / Fall,Lost Time Injury,Day,3–5 years,Insufficient training,4,Partial
+INC-0352,2019,6,Tailings Management,Equipment Contact,Near Miss,Afternoon,<1 year,Fatigue,0,Partial
+INC-0353,2022,10,Logistics & Transport,Vehicle Collision,First Aid,Afternoon,5–10 years,Inadequate supervision,0,No
+INC-0354,2023,7,Processing Plant,Fire / Explosion,Medical Treatment,Day,5–10 years,Insufficient training,1,No
+INC-0355,2023,11,Open Pit Operations,Manual Handling,Near Miss,Day,5–10 years,Human error,0,Yes
+INC-0356,2019,6,Open Pit Operations,Struck by Object,Medical Treatment,Night,1–3 years,Insufficient training,1,Yes
+INC-0357,2024,6,Logistics & Transport,Slip / Trip / Fall,First Aid,Night,<1 year,Human error,0,Yes
+INC-0358,2020,1,Electrical,Struck by Object,First Aid,Day,1–3 years,Poor communication,0,Yes
+INC-0359,2023,12,Underground Mining,Chemical Exposure,First Aid,Afternoon,1–3 years,Equipment failure,0,Yes
+INC-0360,2022,2,Tailings Management,Manual Handling,First Aid,Day,>10 years,Environmental condition,0,Yes
+INC-0361,2020,2,Underground Mining,Chemical Exposure,First Aid,Day,3–5 years,Poor communication,0,No
+INC-0362,2023,6,Underground Mining,Slip / Trip / Fall,Near Miss,Night,3–5 years,Insufficient training,0,Yes
+INC-0363,2023,9,Underground Mining,Manual Handling,Near Miss,Afternoon,3–5 years,Human error,0,Yes
+INC-0364,2023,10,Underground Mining,Vehicle Collision,Near Miss,Afternoon,>10 years,Insufficient training,0,No
+INC-0365,2024,3,Maintenance,Vehicle Collision,Medical Treatment,Afternoon,1–3 years,Human error,1,Yes
+INC-0366,2020,4,Tailings Management,Near Miss,Medical Treatment,Afternoon,>10 years,Inadequate procedure,1,Yes
+INC-0367,2020,10,Electrical,Vehicle Collision,First Aid,Afternoon,<1 year,Human error,0,No
+INC-0368,2020,11,Processing Plant,Electrical Incident,Near Miss,Day,>10 years,Inadequate procedure,0,Yes
+INC-0369,2022,9,Logistics & Transport,Electrical Incident,First Aid,Afternoon,<1 year,Insufficient training,0,Yes
+INC-0370,2021,1,Processing Plant,Fire / Explosion,Near Miss,Night,1–3 years,Inadequate supervision,0,No
+INC-0371,2021,6,Underground Mining,Struck by Object,Near Miss,Day,1–3 years,Insufficient training,0,No
+INC-0372,2022,11,Drilling & Blasting,Struck by Object,Lost Time Injury,Day,1–3 years,Insufficient training,1,Yes
+INC-0373,2021,5,Logistics & Transport,Equipment Contact,First Aid,Day,>10 years,Poor communication,0,Yes
+INC-0374,2019,1,Maintenance,Slip / Trip / Fall,First Aid,Day,1–3 years,Inadequate procedure,0,Yes
+INC-0375,2022,3,Processing Plant,Struck by Object,Near Miss,Night,>10 years,Inadequate procedure,0,Yes
+INC-0376,2021,3,Processing Plant,Slip / Trip / Fall,Medical Treatment,Day,1–3 years,Inadequate supervision,1,Yes
+INC-0377,2022,9,Maintenance,Electrical Incident,First Aid,Night,1–3 years,Human error,0,Yes
+INC-0378,2024,10,HSE / Supervision,Near Miss,Near Miss,Night,5–10 years,Poor communication,0,Yes
+INC-0379,2020,4,Underground Mining,Vehicle Collision,Near Miss,Afternoon,3–5 years,PPE non-compliance,0,Yes
+INC-0380,2023,10,Open Pit Operations,Manual Handling,First Aid,Day,>10 years,Inadequate supervision,0,No
+INC-0381,2023,7,Open Pit Operations,Fire / Explosion,First Aid,Night,3–5 years,Inadequate procedure,0,Partial
+INC-0382,2021,1,Processing Plant,Slip / Trip / Fall,Near Miss,Afternoon,>10 years,Equipment failure,0,Partial
+INC-0383,2022,1,Tailings Management,Slip / Trip / Fall,Fatality,Day,1–3 years,Equipment failure,0,Yes
+INC-0384,2024,10,Open Pit Operations,Near Miss,Near Miss,Afternoon,<1 year,Equipment failure,0,Partial
+INC-0385,2021,10,Processing Plant,Equipment Contact,Near Miss,Afternoon,3–5 years,Insufficient training,0,No
+INC-0386,2023,1,Open Pit Operations,Chemical Exposure,Near Miss,Afternoon,<1 year,Inadequate procedure,0,Partial
+INC-0387,2024,6,Logistics & Transport,Equipment Contact,First Aid,Day,<1 year,Equipment failure,0,No
+INC-0388,2021,11,Processing Plant,Electrical Incident,Lost Time Injury,Night,5–10 years,Human error,3,Yes
+INC-0389,2024,7,Processing Plant,Vehicle Collision,Medical Treatment,Night,<1 year,Poor communication,1,Yes
+INC-0390,2023,4,Electrical,Manual Handling,First Aid,Night,>10 years,Insufficient training,0,Yes
+INC-0391,2022,6,HSE / Supervision,Equipment Contact,Medical Treatment,Day,5–10 years,Human error,1,Yes
+INC-0392,2023,3,Open Pit Operations,Struck by Object,Lost Time Injury,Night,1–3 years,Equipment failure,31,Yes
+INC-0393,2021,10,Processing Plant,Chemical Exposure,Medical Treatment,Afternoon,3–5 years,Insufficient training,1,Yes
+INC-0394,2023,4,Logistics & Transport,Struck by Object,Near Miss,Afternoon,<1 year,Poor communication,0,Partial
+INC-0395,2021,5,Underground Mining,Vehicle Collision,Near Miss,Day,1–3 years,Poor communication,0,Partial
+INC-0396,2024,6,Open Pit Operations,Manual Handling,Fatality,Day,3–5 years,Poor communication,0,Yes
+INC-0397,2022,1,Maintenance,Slip / Trip / Fall,First Aid,Day,1–3 years,Fatigue,0,No
+INC-0398,2020,12,Open Pit Operations,Vehicle Collision,First Aid,Day,5–10 years,Insufficient training,0,Partial
+INC-0399,2022,6,Underground Mining,Chemical Exposure,Near Miss,Day,3–5 years,Insufficient training,0,No
+INC-0400,2024,12,Processing Plant,Struck by Object,First Aid,Night,1–3 years,Human error,0,Yes
+INC-0401,2023,8,Processing Plant,Manual Handling,Medical Treatment,Day,>10 years,Inadequate supervision,1,Partial
+INC-0402,2022,6,Logistics & Transport,Slip / Trip / Fall,Medical Treatment,Night,1–3 years,Inadequate procedure,1,No
+INC-0403,2021,12,HSE / Supervision,Equipment Contact,Fatality,Day,3–5 years,Inadequate procedure,0,Partial
+INC-0404,2021,7,Tailings Management,Slip / Trip / Fall,Lost Time Injury,Afternoon,1–3 years,Environmental condition,8,Partial
+INC-0405,2024,8,Logistics & Transport,Slip / Trip / Fall,First Aid,Day,>10 years,Fatigue,0,Partial
+INC-0406,2019,6,Open Pit Operations,Slip / Trip / Fall,First Aid,Afternoon,>10 years,Insufficient training,0,No
+INC-0407,2024,4,Processing Plant,Struck by Object,First Aid,Night,<1 year,Insufficient training,0,Yes
+INC-0408,2024,4,Processing Plant,Fire / Explosion,First Aid,Afternoon,5–10 years,Insufficient training,0,No
+INC-0409,2020,10,Open Pit Operations,Vehicle Collision,First Aid,Afternoon,5–10 years,Insufficient training,0,Yes
+INC-0410,2021,11,Electrical,Electrical Incident,First Aid,Afternoon,3–5 years,Insufficient training,0,Partial
+INC-0411,2022,12,Drilling & Blasting,Equipment Contact,First Aid,Day,5–10 years,Inadequate procedure,0,Yes
+INC-0412,2023,7,Electrical,Equipment Contact,First Aid,Day,3–5 years,Poor communication,0,Partial
+INC-0413,2024,10,Open Pit Operations,Electrical Incident,Near Miss,Afternoon,1–3 years,Inadequate procedure,0,Yes
+INC-0414,2024,5,Processing Plant,Slip / Trip / Fall,Near Miss,Day,>10 years,Human error,0,Yes
+INC-0415,2021,8,Underground Mining,Equipment Contact,Medical Treatment,Night,5–10 years,Inadequate supervision,1,Yes
+INC-0416,2020,3,Open Pit Operations,Equipment Contact,Near Miss,Day,1–3 years,Equipment failure,0,Partial
+INC-0417,2022,8,Open Pit Operations,Chemical Exposure,Lost Time Injury,Night,>10 years,Equipment failure,5,Yes
+INC-0418,2022,9,Open Pit Operations,Manual Handling,Near Miss,Night,<1 year,Poor communication,0,No
+INC-0419,2023,12,Processing Plant,Struck by Object,First Aid,Night,3–5 years,Fatigue,0,No
+INC-0420,2019,1,Logistics & Transport,Manual Handling,First Aid,Day,5–10 years,Fatigue,0,Yes
+INC-0421,2023,11,Underground Mining,Slip / Trip / Fall,First Aid,Day,>10 years,Inadequate procedure,0,Yes
+INC-0422,2024,3,Tailings Management,Near Miss,Medical Treatment,Night,<1 year,Equipment failure,1,Partial
+INC-0423,2024,9,Underground Mining,Chemical Exposure,Near Miss,Afternoon,5–10 years,Inadequate procedure,0,No
+INC-0424,2024,3,Open Pit Operations,Slip / Trip / Fall,Near Miss,Day,>10 years,Human error,0,No
+INC-0425,2024,3,Open Pit Operations,Slip / Trip / Fall,First Aid,Day,>10 years,Environmental condition,0,Yes
+INC-0426,2024,1,Processing Plant,Slip / Trip / Fall,Near Miss,Day,3–5 years,Fatigue,0,Yes
+INC-0427,2019,8,Logistics & Transport,Manual Handling,First Aid,Night,5–10 years,Poor communication,0,Yes
+INC-0428,2024,8,Underground Mining,Slip / Trip / Fall,First Aid,Day,<1 year,Fatigue,0,Yes
+INC-0429,2021,4,Open Pit Operations,Electrical Incident,Near Miss,Night,3–5 years,Human error,0,Yes
+INC-0430,2021,6,Processing Plant,Equipment Contact,Medical Treatment,Day,>10 years,Poor communication,1,No
+INC-0431,2022,11,Maintenance,Slip / Trip / Fall,First Aid,Day,3–5 years,Human error,0,Partial
+INC-0432,2024,2,Electrical,Manual Handling,First Aid,Day,3–5 years,Inadequate supervision,0,Partial
+INC-0433,2022,3,Open Pit Operations,Slip / Trip / Fall,Lost Time Injury,Afternoon,<1 year,Insufficient training,7,Partial
+INC-0434,2021,2,Logistics & Transport,Equipment Contact,Near Miss,Afternoon,5–10 years,Insufficient training,0,Yes
+INC-0435,2021,2,Maintenance,Chemical Exposure,First Aid,Night,1–3 years,Equipment failure,0,Yes
+INC-0436,2024,5,Processing Plant,Chemical Exposure,Medical Treatment,Night,>10 years,Equipment failure,1,Yes
+INC-0437,2024,10,Logistics & Transport,Slip / Trip / Fall,Near Miss,Day,1–3 years,Poor communication,0,No
+INC-0438,2019,10,Tailings Management,Vehicle Collision,Near Miss,Day,1–3 years,Human error,0,Partial
+INC-0439,2020,6,Tailings Management,Slip / Trip / Fall,Medical Treatment,Day,3–5 years,Inadequate procedure,1,No
+INC-0440,2021,4,Maintenance,Equipment Contact,Lost Time Injury,Day,<1 year,Human error,5,Partial
+INC-0441,2020,4,Underground Mining,Vehicle Collision,First Aid,Day,5–10 years,Human error,0,Yes
+INC-0442,2022,1,Open Pit Operations,Slip / Trip / Fall,First Aid,Day,3–5 years,Poor communication,0,Yes
+INC-0443,2020,3,Underground Mining,Fire / Explosion,Near Miss,Day,1–3 years,Inadequate procedure,0,Yes
+INC-0444,2022,11,Processing Plant,Manual Handling,First Aid,Day,>10 years,Poor communication,0,Yes
+INC-0445,2024,8,Underground Mining,Vehicle Collision,First Aid,Afternoon,3–5 years,Insufficient training,0,Partial
+INC-0446,2024,3,Underground Mining,Manual Handling,First Aid,Day,>10 years,Environmental condition,0,Yes
+INC-0447,2019,4,Drilling & Blasting,Slip / Trip / Fall,Medical Treatment,Day,3–5 years,Human error,1,No
+INC-0448,2020,11,Tailings Management,Electrical Incident,First Aid,Day,>10 years,Poor communication,0,No
+INC-0449,2021,5,Logistics & Transport,Slip / Trip / Fall,Medical Treatment,Night,<1 year,Insufficient training,1,Partial
+INC-0450,2023,8,Open Pit Operations,Slip / Trip / Fall,First Aid,Night,<1 year,Equipment failure,0,Partial
+INC-0451,2021,10,Processing Plant,Near Miss,First Aid,Day,1–3 years,Equipment failure,0,Yes
+INC-0452,2020,9,Underground Mining,Vehicle Collision,Lost Time Injury,Day,3–5 years,Human error,1,Yes
+INC-0453,2021,1,Open Pit Operations,Struck by Object,Near Miss,Night,5–10 years,Inadequate procedure,0,Yes
+INC-0454,2020,10,Tailings Management,Equipment Contact,Medical Treatment,Day,<1 year,Poor communication,1,Yes
+INC-0455,2024,3,Underground Mining,Struck by Object,Near Miss,Night,<1 year,Equipment failure,0,Partial
+INC-0456,2023,2,Processing Plant,Electrical Incident,First Aid,Night,3–5 years,Poor communication,0,Yes
+INC-0457,2021,2,HSE / Supervision,Equipment Contact,Near Miss,Day,<1 year,Inadequate supervision,0,Yes
+INC-0458,2023,11,Electrical,Slip / Trip / Fall,First Aid,Day,5–10 years,Insufficient training,0,Yes
+INC-0459,2022,10,Logistics & Transport,Equipment Contact,First Aid,Day,<1 year,Insufficient training,0,No
+INC-0460,2022,11,Underground Mining,Manual Handling,Lost Time Injury,Day,<1 year,Inadequate procedure,6,Partial
+INC-0461,2021,3,Underground Mining,Near Miss,First Aid,Day,<1 year,Human error,0,Yes
+INC-0462,2022,8,Processing Plant,Equipment Contact,First Aid,Day,5–10 years,Equipment failure,0,Yes
+INC-0463,2024,3,Processing Plant,Chemical Exposure,First Aid,Night,>10 years,Insufficient training,0,No
+INC-0464,2023,12,Processing Plant,Electrical Incident,Lost Time Injury,Night,1–3 years,Human error,12,Yes
+INC-0465,2024,1,Underground Mining,Slip / Trip / Fall,Near Miss,Afternoon,1–3 years,PPE non-compliance,0,Yes
+INC-0466,2019,7,Processing Plant,Manual Handling,Near Miss,Night,<1 year,Environmental condition,0,Yes
+INC-0467,2022,11,Open Pit Operations,Equipment Contact,Near Miss,Afternoon,5–10 years,Inadequate procedure,0,No
+INC-0468,2021,3,Underground Mining,Slip / Trip / Fall,Near Miss,Afternoon,5–10 years,Environmental condition,0,Yes
+INC-0469,2019,1,Processing Plant,Manual Handling,Medical Treatment,Afternoon,1–3 years,Insufficient training,1,Yes
+INC-0470,2021,12,Logistics & Transport,Manual Handling,Near Miss,Day,1–3 years,Human error,0,Partial
+INC-0471,2019,7,Underground Mining,Near Miss,First Aid,Afternoon,3–5 years,Inadequate procedure,0,Yes
+INC-0472,2020,1,Underground Mining,Struck by Object,Near Miss,Night,3–5 years,Insufficient training,0,Yes
+INC-0473,2023,9,Underground Mining,Struck by Object,Medical Treatment,Night,<1 year,Inadequate procedure,1,Yes
+INC-0474,2023,3,Underground Mining,Slip / Trip / Fall,First Aid,Night,<1 year,Equipment failure,0,Partial
+INC-0475,2023,1,Maintenance,Manual Handling,Medical Treatment,Day,3–5 years,Insufficient training,1,Partial
+INC-0476,2019,1,Maintenance,Electrical Incident,First Aid,Day,>10 years,Environmental condition,0,Yes
+INC-0477,2020,7,Underground Mining,Equipment Contact,Lost Time Injury,Afternoon,5–10 years,Equipment failure,9,Partial
+INC-0478,2019,10,Electrical,Equipment Contact,Near Miss,Day,1–3 years,Inadequate procedure,0,Yes
+INC-0479,2019,1,Open Pit Operations,Near Miss,Near Miss,Day,3–5 years,Insufficient training,0,Yes
+INC-0480,2019,4,Open Pit Operations,Equipment Contact,Near Miss,Night,<1 year,Equipment failure,0,Yes
+INC-0481,2024,6,Logistics & Transport,Vehicle Collision,Lost Time Injury,Day,5–10 years,Environmental condition,5,Partial
+INC-0482,2024,8,Underground Mining,Manual Handling,Medical Treatment,Day,<1 year,Insufficient training,1,Yes
+INC-0483,2020,7,Open Pit Operations,Slip / Trip / Fall,First Aid,Afternoon,<1 year,Human error,0,No
+INC-0484,2020,11,Electrical,Manual Handling,Near Miss,Night,>10 years,Inadequate supervision,0,Yes
+INC-0485,2024,12,Underground Mining,Equipment Contact,Near Miss,Night,5–10 years,Inadequate procedure,0,Yes
+INC-0486,2022,12,Tailings Management,Chemical Exposure,Near Miss,Day,<1 year,Poor communication,0,Yes
+INC-0487,2021,12,HSE / Supervision,Chemical Exposure,First Aid,Day,1–3 years,Inadequate supervision,0,Partial
+INC-0488,2022,7,Processing Plant,Vehicle Collision,First Aid,Day,1–3 years,Inadequate procedure,0,Yes
+INC-0489,2021,10,Open Pit Operations,Electrical Incident,Near Miss,Afternoon,1–3 years,Inadequate procedure,0,Yes
+INC-0490,2022,4,Logistics & Transport,Struck by Object,Medical Treatment,Afternoon,<1 year,Equipment failure,1,Yes
+INC-0491,2023,7,HSE / Supervision,Manual Handling,Fatality,Afternoon,3–5 years,Inadequate supervision,0,Partial
+INC-0492,2022,2,Processing Plant,Manual Handling,First Aid,Day,1–3 years,Inadequate procedure,0,Yes
+INC-0493,2024,4,Electrical,Slip / Trip / Fall,Lost Time Injury,Day,1–3 years,Poor communication,6,Yes
+INC-0494,2019,10,Electrical,Manual Handling,Near Miss,Day,3–5 years,Insufficient training,0,Yes
+INC-0495,2022,7,HSE / Supervision,Equipment Contact,First Aid,Day,5–10 years,Poor communication,0,Partial
+INC-0496,2024,7,Tailings Management,Slip / Trip / Fall,Near Miss,Day,5–10 years,Human error,0,Yes
+INC-0497,2020,7,Open Pit Operations,Near Miss,Medical Treatment,Day,5–10 years,Fatigue,1,Yes
+INC-0498,2022,7,Logistics & Transport,Near Miss,Near Miss,Day,>10 years,Inadequate procedure,0,No
+INC-0499,2023,1,Underground Mining,Chemical Exposure,Lost Time Injury,Night,>10 years,Human error,26,Yes
+INC-0500,2021,7,Electrical,Equipment Contact,Medical Treatment,Night,5–10 years,Poor communication,1,Yes
+INC-0501,2024,1,Tailings Management,Vehicle Collision,Medical Treatment,Day,1–3 years,Insufficient training,1,Yes
+INC-0502,2022,7,Underground Mining,Electrical Incident,Near Miss,Day,1–3 years,Inadequate procedure,0,Yes
+INC-0503,2022,6,Maintenance,Vehicle Collision,Medical Treatment,Afternoon,>10 years,Inadequate procedure,1,No
+INC-0504,2024,7,Open Pit Operations,Slip / Trip / Fall,Near Miss,Afternoon,<1 year,Environmental condition,0,Yes
+INC-0505,2019,11,Open Pit Operations,Slip / Trip / Fall,Medical Treatment,Afternoon,1–3 years,Equipment failure,1,Yes
+INC-0506,2024,11,Processing Plant,Slip / Trip / Fall,Near Miss,Day,3–5 years,Insufficient training,0,Partial
+INC-0507,2019,4,Maintenance,Equipment Contact,Lost Time Injury,Day,5–10 years,Equipment failure,1,Yes
+INC-0508,2021,2,Underground Mining,Manual Handling,First Aid,Day,>10 years,Human error,0,Partial
+INC-0509,2022,5,Logistics & Transport,Struck by Object,Lost Time Injury,Night,3–5 years,Human error,1,Partial
+INC-0510,2022,6,Maintenance,Electrical Incident,Near Miss,Day,<1 year,Fatigue,0,Yes
+INC-0511,2019,10,Maintenance,Manual Handling,First Aid,Afternoon,>10 years,Insufficient training,0,No
+INC-0512,2021,5,Processing Plant,Manual Handling,Medical Treatment,Day,3–5 years,Equipment failure,1,Partial
+INC-0513,2021,3,Tailings Management,Electrical Incident,Near Miss,Night,>10 years,Environmental condition,0,Yes
+INC-0514,2024,9,Underground Mining,Vehicle Collision,Near Miss,Night,5–10 years,Equipment failure,0,Yes
+INC-0515,2024,11,Drilling & Blasting,Electrical Incident,Near Miss,Day,1–3 years,Inadequate procedure,0,Yes
+INC-0516,2022,10,Processing Plant,Vehicle Collision,First Aid,Day,<1 year,Poor communication,0,Partial
+INC-0517,2024,10,Open Pit Operations,Manual Handling,Medical Treatment,Day,3–5 years,Equipment failure,1,Yes
+INC-0518,2024,1,Drilling & Blasting,Slip / Trip / Fall,Medical Treatment,Afternoon,<1 year,Human error,1,Partial
+INC-0519,2021,10,Logistics & Transport,Near Miss,First Aid,Night,3–5 years,Inadequate supervision,0,Yes
+INC-0520,2019,4,Electrical,Manual Handling,Medical Treatment,Night,1–3 years,Fatigue,1,No
+INC-0521,2022,2,Underground Mining,Electrical Incident,Near Miss,Day,3–5 years,Insufficient training,0,Partial
+INC-0522,2021,2,Processing Plant,Manual Handling,Medical Treatment,Night,<1 year,Equipment failure,1,No
+INC-0523,2019,11,Drilling & Blasting,Equipment Contact,First Aid,Night,1–3 years,Fatigue,0,Partial
+INC-0524,2024,6,Underground Mining,Struck by Object,First Aid,Afternoon,1–3 years,Fatigue,0,Partial
+INC-0525,2024,2,Maintenance,Vehicle Collision,Near Miss,Afternoon,<1 year,Inadequate procedure,0,Yes
+INC-0526,2022,1,Open Pit Operations,Chemical Exposure,First Aid,Day,5–10 years,Poor communication,0,Yes
+INC-0527,2023,9,Maintenance,Slip / Trip / Fall,Near Miss,Day,>10 years,Equipment failure,0,Yes
+INC-0528,2023,4,Open Pit Operations,Struck by Object,Lost Time Injury,Night,5–10 years,Poor communication,5,Yes
+INC-0529,2024,2,Drilling & Blasting,Slip / Trip / Fall,First Aid,Day,1–3 years,Fatigue,0,Yes
+INC-0530,2022,7,Open Pit Operations,Slip / Trip / Fall,First Aid,Day,3–5 years,Human error,0,Yes
+INC-0531,2022,11,Drilling & Blasting,Slip / Trip / Fall,Medical Treatment,Night,1–3 years,Insufficient training,1,Yes
+INC-0532,2020,3,Tailings Management,Equipment Contact,First Aid,Night,5–10 years,Equipment failure,0,Yes
+INC-0533,2020,10,Drilling & Blasting,Equipment Contact,Near Miss,Night,3–5 years,Poor communication,0,Yes
+INC-0534,2022,11,Tailings Management,Vehicle Collision,Medical Treatment,Day,1–3 years,Equipment failure,1,Partial
+INC-0535,2020,9,Open Pit Operations,Struck by Object,Medical Treatment,Day,5–10 years,Fatigue,1,Yes
+INC-0536,2019,6,Processing Plant,Slip / Trip / Fall,Lost Time Injury,Day,>10 years,Human error,6,Partial
+INC-0537,2021,3,Logistics & Transport,Struck by Object,Near Miss,Afternoon,5–10 years,Environmental condition,0,No
+INC-0538,2023,3,Open Pit Operations,Struck by Object,Lost Time Injury,Day,3–5 years,Human error,1,No
+INC-0539,2021,4,Tailings Management,Slip / Trip / Fall,Near Miss,Day,5–10 years,Insufficient training,0,Yes
+INC-0540,2024,12,Open Pit Operations,Manual Handling,Near Miss,Day,>10 years,Environmental condition,0,Partial
+INC-0541,2023,5,Maintenance,Electrical Incident,Lost Time Injury,Day,1–3 years,Equipment failure,20,Yes
+INC-0542,2023,9,Processing Plant,Struck by Object,First Aid,Day,1–3 years,Human error,0,Yes
+INC-0543,2024,8,Open Pit Operations,Struck by Object,Near Miss,Day,5–10 years,Insufficient training,0,Yes
+INC-0544,2019,1,Logistics & Transport,Slip / Trip / Fall,Medical Treatment,Night,<1 year,PPE non-compliance,1,Yes
+INC-0545,2020,6,Processing Plant,Equipment Contact,First Aid,Afternoon,>10 years,Inadequate procedure,0,Yes
+INC-0546,2024,7,Open Pit Operations,Slip / Trip / Fall,Near Miss,Day,3–5 years,Insufficient training,0,Yes
+INC-0547,2024,3,Processing Plant,Manual Handling,First Aid,Day,3–5 years,Human error,0,Partial
+INC-0548,2019,6,Drilling & Blasting,Struck by Object,First Aid,Afternoon,5–10 years,Insufficient training,0,Yes
+INC-0549,2023,9,Underground Mining,Equipment Contact,Near Miss,Afternoon,3–5 years,Environmental condition,0,Partial
+INC-0550,2019,9,Logistics & Transport,Electrical Incident,Medical Treatment,Day,1–3 years,Environmental condition,1,Yes
+INC-0551,2019,11,Underground Mining,Manual Handling,Near Miss,Afternoon,5–10 years,Human error,0,Yes
+INC-0552,2019,5,Maintenance,Struck by Object,First Aid,Day,>10 years,Insufficient training,0,No
+INC-0553,2021,11,Drilling & Blasting,Slip / Trip / Fall,First Aid,Night,5–10 years,Poor communication,0,Yes
+INC-0554,2021,4,Processing Plant,Struck by Object,Near Miss,Day,<1 year,Human error,0,Partial
+INC-0555,2024,4,Open Pit Operations,Slip / Trip / Fall,First Aid,Afternoon,>10 years,Inadequate procedure,0,Partial
+INC-0556,2022,11,Open Pit Operations,Struck by Object,Medical Treatment,Day,1–3 years,Environmental condition,1,Partial
+INC-0557,2019,6,Underground Mining,Chemical Exposure,Near Miss,Day,1–3 years,Poor communication,0,Yes
+INC-0558,2021,2,HSE / Supervision,Slip / Trip / Fall,Medical Treatment,Night,1–3 years,Equipment failure,1,Yes
+INC-0559,2019,2,Electrical,Slip / Trip / Fall,First Aid,Day,1–3 years,Inadequate procedure,0,Yes
+INC-0560,2019,12,Processing Plant,Slip / Trip / Fall,Lost Time Injury,Night,<1 year,Environmental condition,4,Yes
+INC-0561,2022,5,Underground Mining,Electrical Incident,First Aid,Day,<1 year,Fatigue,0,No
+INC-0562,2022,1,Electrical,Struck by Object,First Aid,Day,<1 year,Equipment failure,0,Partial
+INC-0563,2020,7,Underground Mining,Vehicle Collision,Near Miss,Night,<1 year,Insufficient training,0,Partial
+INC-0564,2021,10,Logistics & Transport,Manual Handling,First Aid,Day,1–3 years,Equipment failure,0,Yes
+INC-0565,2019,7,Logistics & Transport,Near Miss,Lost Time Injury,Day,<1 year,Fatigue,15,Partial
+INC-0566,2023,2,Open Pit Operations,Vehicle Collision,Near Miss,Day,<1 year,Insufficient training,0,No
+INC-0567,2021,3,Underground Mining,Slip / Trip / Fall,Medical Treatment,Day,1–3 years,Inadequate procedure,1,Yes
+INC-0568,2020,2,Processing Plant,Slip / Trip / Fall,Medical Treatment,Afternoon,3–5 years,Human error,1,Partial
+INC-0569,2022,9,Processing Plant,Equipment Contact,Near Miss,Night,<1 year,Fatigue,0,Partial
+INC-0570,2020,2,Maintenance,Near Miss,First Aid,Night,1–3 years,Insufficient training,0,No
+INC-0571,2021,4,Logistics & Transport,Near Miss,Medical Treatment,Night,>10 years,Equipment failure,1,Partial
+INC-0572,2019,6,Logistics & Transport,Slip / Trip / Fall,Near Miss,Day,3–5 years,Equipment failure,0,No
+INC-0573,2023,5,Logistics & Transport,Struck by Object,Near Miss,Afternoon,>10 years,Inadequate procedure,0,Yes
+INC-0574,2021,4,Open Pit Operations,Equipment Contact,Lost Time Injury,Day,1–3 years,Inadequate procedure,3,Partial
+INC-0575,2024,4,Underground Mining,Vehicle Collision,First Aid,Night,1–3 years,Equipment failure,0,Partial
+INC-0576,2021,5,Open Pit Operations,Slip / Trip / Fall,Near Miss,Afternoon,1–3 years,Poor communication,0,Yes
+INC-0577,2020,9,Processing Plant,Struck by Object,Medical Treatment,Night,3–5 years,Equipment failure,1,Yes
+INC-0578,2023,2,Underground Mining,Manual Handling,Near Miss,Afternoon,>10 years,Human error,0,Partial
+INC-0579,2023,12,Maintenance,Near Miss,First Aid,Night,1–3 years,Human error,0,Yes
+INC-0580,2024,3,Maintenance,Near Miss,Medical Treatment,Night,3–5 years,Inadequate procedure,1,Partial
+INC-0581,2019,12,Logistics & Transport,Vehicle Collision,Near Miss,Day,<1 year,Inadequate procedure,0,Yes
+INC-0582,2023,8,Underground Mining,Chemical Exposure,Near Miss,Day,1–3 years,Inadequate procedure,0,Partial
+INC-0583,2024,10,Processing Plant,Manual Handling,Near Miss,Day,1–3 years,Poor communication,0,No
+INC-0584,2021,7,Underground Mining,Slip / Trip / Fall,Lost Time Injury,Afternoon,5–10 years,Insufficient training,1,Yes
+INC-0585,2022,10,Open Pit Operations,Manual Handling,Near Miss,Day,5–10 years,Equipment failure,0,Partial
+INC-0586,2023,3,Processing Plant,Near Miss,Lost Time Injury,Night,3–5 years,Inadequate procedure,16,Partial
+INC-0587,2020,5,Logistics & Transport,Slip / Trip / Fall,Medical Treatment,Day,<1 year,Human error,1,Partial
+INC-0588,2024,1,Electrical,Vehicle Collision,First Aid,Afternoon,1–3 years,Equipment failure,0,Yes
+INC-0589,2023,3,Open Pit Operations,Slip / Trip / Fall,First Aid,Day,1–3 years,Equipment failure,0,No
+INC-0590,2024,3,Logistics & Transport,Manual Handling,Near Miss,Night,5–10 years,Insufficient training,0,Partial
+INC-0591,2022,1,Underground Mining,Manual Handling,Near Miss,Afternoon,1–3 years,Human error,0,Partial
+INC-0592,2022,12,Maintenance,Chemical Exposure,First Aid,Afternoon,1–3 years,Inadequate procedure,0,Yes
+INC-0593,2020,5,Logistics & Transport,Equipment Contact,First Aid,Night,5–10 years,PPE non-compliance,0,Yes
+INC-0594,2021,5,Processing Plant,Struck by Object,First Aid,Afternoon,1–3 years,PPE non-compliance,0,Partial
+INC-0595,2023,8,Underground Mining,Slip / Trip / Fall,Near Miss,Afternoon,<1 year,Insufficient training,0,No
+INC-0596,2024,12,Processing Plant,Manual Handling,Lost Time Injury,Night,1–3 years,Environmental condition,1,Partial
+INC-0597,2020,2,Processing Plant,Electrical Incident,Fatality,Night,3–5 years,Equipment failure,0,Partial
+INC-0598,2019,3,Logistics & Transport,Manual Handling,Medical Treatment,Day,1–3 years,Equipment failure,1,Yes
+INC-0599,2019,4,Logistics & Transport,Struck by Object,Medical Treatment,Night,1–3 years,Human error,1,Yes
+INC-0600,2022,5,Electrical,Struck by Object,Near Miss,Night,1–3 years,Inadequate supervision,0,Yes
+INC-0601,2023,9,Underground Mining,Slip / Trip / Fall,First Aid,Day,>10 years,Insufficient training,0,Partial
+INC-0602,2020,4,Processing Plant,Equipment Contact,First Aid,Day,1–3 years,Human error,0,Yes
+INC-0603,2022,2,Underground Mining,Struck by Object,Lost Time Injury,Afternoon,<1 year,Environmental condition,1,Partial
+INC-0604,2022,4,Drilling & Blasting,Struck by Object,Medical Treatment,Day,<1 year,Insufficient training,1,Partial
+INC-0605,2024,5,Logistics & Transport,Slip / Trip / Fall,First Aid,Day,<1 year,Equipment failure,0,Yes
+INC-0606,2020,7,Maintenance,Chemical Exposure,First Aid,Afternoon,3–5 years,Inadequate procedure,0,Partial
+INC-0607,2019,8,Open Pit Operations,Chemical Exposure,First Aid,Day,5–10 years,Poor communication,0,Yes
+INC-0608,2022,12,Electrical,Equipment Contact,First Aid,Day,5–10 years,Human error,0,No
+INC-0609,2021,12,Open Pit Operations,Struck by Object,First Aid,Afternoon,3–5 years,Human error,0,Yes
+INC-0610,2021,11,Tailings Management,Vehicle Collision,Medical Treatment,Day,1–3 years,Human error,1,No
+INC-0611,2023,10,Underground Mining,Chemical Exposure,Near Miss,Afternoon,3–5 years,Inadequate procedure,0,Yes
+INC-0612,2023,2,Maintenance,Equipment Contact,First Aid,Day,3–5 years,Human error,0,Yes
+INC-0613,2019,9,Logistics & Transport,Manual Handling,First Aid,Day,1–3 years,Human error,0,Yes
+INC-0614,2022,11,Open Pit Operations,Slip / Trip / Fall,Lost Time Injury,Afternoon,<1 year,Human error,12,Partial
+INC-0615,2023,7,Logistics & Transport,Slip / Trip / Fall,Near Miss,Afternoon,3–5 years,Human error,0,Partial
+INC-0616,2024,9,Underground Mining,Slip / Trip / Fall,Fatality,Afternoon,1–3 years,Equipment failure,0,Partial
+INC-0617,2019,5,Maintenance,Fire / Explosion,Medical Treatment,Afternoon,1–3 years,Fatigue,1,No
+INC-0618,2023,11,Processing Plant,Equipment Contact,Near Miss,Afternoon,>10 years,Insufficient training,0,Yes
+INC-0619,2019,4,Underground Mining,Equipment Contact,Near Miss,Day,>10 years,PPE non-compliance,0,Yes
+INC-0620,2023,6,Open Pit Operations,Manual Handling,Near Miss,Day,3–5 years,Insufficient training,0,Yes
+INC-0621,2022,10,Tailings Management,Equipment Contact,Near Miss,Day,5–10 years,Human error,0,Yes
+INC-0622,2024,6,HSE / Supervision,Struck by Object,Lost Time Injury,Day,1–3 years,Human error,1,Partial
+INC-0623,2023,12,Tailings Management,Manual Handling,First Aid,Day,<1 year,Human error,0,Yes
+INC-0624,2019,7,Underground Mining,Manual Handling,First Aid,Afternoon,5–10 years,Inadequate procedure,0,Yes
+INC-0625,2023,4,Tailings Management,Equipment Contact,Medical Treatment,Night,5–10 years,Insufficient training,1,Yes
+INC-0626,2020,9,Open Pit Operations,Struck by Object,Medical Treatment,Night,<1 year,PPE non-compliance,1,Yes
+INC-0627,2024,3,Tailings Management,Slip / Trip / Fall,Medical Treatment,Night,1–3 years,Insufficient training,1,Yes
+INC-0628,2019,11,Electrical,Near Miss,First Aid,Day,3–5 years,Environmental condition,0,Yes
+INC-0629,2021,8,Underground Mining,Struck by Object,First Aid,Day,1–3 years,Human error,0,Yes
+INC-0630,2023,8,Logistics & Transport,Vehicle Collision,Near Miss,Day,3–5 years,Insufficient training,0,No
+INC-0631,2020,8,Open Pit Operations,Equipment Contact,Near Miss,Day,>10 years,Fatigue,0,No
+INC-0632,2023,10,Open Pit Operations,Chemical Exposure,Near Miss,Night,>10 years,Insufficient training,0,No
+INC-0633,2023,3,Tailings Management,Near Miss,Near Miss,Night,3–5 years,Inadequate supervision,0,Yes
+INC-0634,2023,3,Open Pit Operations,Manual Handling,Lost Time Injury,Afternoon,1–3 years,Poor communication,1,No
+INC-0635,2024,7,Open Pit Operations,Manual Handling,First Aid,Afternoon,5–10 years,Inadequate procedure,0,Yes
+INC-0636,2021,9,Drilling & Blasting,Slip / Trip / Fall,Lost Time Injury,Day,>10 years,Human error,3,Partial
+INC-0637,2020,1,Underground Mining,Slip / Trip / Fall,Lost Time Injury,Day,1–3 years,Insufficient training,1,Yes
+INC-0638,2020,7,Open Pit Operations,Vehicle Collision,Near Miss,Night,<1 year,Insufficient training,0,Yes
+INC-0639,2021,12,Processing Plant,Slip / Trip / Fall,Lost Time Injury,Day,3–5 years,Equipment failure,6,Partial
+INC-0640,2019,11,Processing Plant,Slip / Trip / Fall,Medical Treatment,Afternoon,1–3 years,Equipment failure,1,Yes
+INC-0641,2023,9,Maintenance,Vehicle Collision,First Aid,Day,>10 years,Equipment failure,0,Partial
+INC-0642,2019,6,Electrical,Slip / Trip / Fall,Medical Treatment,Afternoon,<1 year,Insufficient training,1,Yes
+INC-0643,2019,2,Logistics & Transport,Vehicle Collision,Near Miss,Afternoon,<1 year,Environmental condition,0,No
+INC-0644,2024,9,Maintenance,Equipment Contact,Lost Time Injury,Afternoon,>10 years,Inadequate supervision,5,Partial
+INC-0645,2023,9,Electrical,Struck by Object,Near Miss,Afternoon,1–3 years,Inadequate procedure,0,No
+INC-0646,2020,7,Open Pit Operations,Fire / Explosion,Near Miss,Afternoon,5–10 years,Equipment failure,0,Yes
+INC-0647,2021,10,Open Pit Operations,Struck by Object,Near Miss,Night,5–10 years,Human error,0,No
+INC-0648,2024,6,Underground Mining,Slip / Trip / Fall,Medical Treatment,Day,5–10 years,Inadequate procedure,1,No
+INC-0649,2023,1,Logistics & Transport,Manual Handling,Medical Treatment,Night,1–3 years,Poor communication,1,Partial
+INC-0650,2020,9,Logistics & Transport,Struck by Object,First Aid,Afternoon,5–10 years,Fatigue,0,No
+INC-0651,2022,6,Open Pit Operations,Slip / Trip / Fall,Lost Time Injury,Night,1–3 years,Fatigue,21,Yes
+INC-0652,2024,11,Underground Mining,Slip / Trip / Fall,Near Miss,Day,<1 year,Inadequate procedure,0,Yes
+INC-0653,2019,1,Processing Plant,Equipment Contact,First Aid,Night,<1 year,PPE non-compliance,0,Yes
+INC-0654,2024,3,Open Pit Operations,Fire / Explosion,Medical Treatment,Day,<1 year,Insufficient training,1,Yes
+INC-0655,2022,7,HSE / Supervision,Equipment Contact,Fatality,Day,5–10 years,Inadequate supervision,0,Partial
+INC-0656,2020,10,Underground Mining,Struck by Object,Lost Time Injury,Day,5–10 years,Human error,6,Yes
+INC-0657,2023,11,Electrical,Slip / Trip / Fall,Medical Treatment,Day,5–10 years,Equipment failure,1,Partial
+INC-0658,2019,4,Processing Plant,Struck by Object,Lost Time Injury,Night,5–10 years,PPE non-compliance,31,No
+INC-0659,2021,8,HSE / Supervision,Manual Handling,Medical Treatment,Afternoon,3–5 years,Equipment failure,1,Yes
+INC-0660,2022,7,Open Pit Operations,Near Miss,Near Miss,Day,1–3 years,Human error,0,No
+INC-0661,2020,1,Open Pit Operations,Slip / Trip / Fall,First Aid,Day,<1 year,Insufficient training,0,Yes
+INC-0662,2024,8,Electrical,Vehicle Collision,First Aid,Night,1–3 years,Inadequate supervision,0,Yes
+INC-0663,2023,9,Underground Mining,Manual Handling,First Aid,Afternoon,<1 year,Fatigue,0,Yes
+INC-0664,2020,5,Processing Plant,Struck by Object,Medical Treatment,Day,>10 years,Environmental condition,1,No
+INC-0665,2020,8,Processing Plant,Equipment Contact,First Aid,Day,5–10 years,Equipment failure,0,Yes
+INC-0666,2019,3,Drilling & Blasting,Equipment Contact,Medical Treatment,Afternoon,5–10 years,Insufficient training,1,Yes
+INC-0667,2022,9,Underground Mining,Slip / Trip / Fall,Lost Time Injury,Day,<1 year,Insufficient training,3,No
+INC-0668,2020,2,Tailings Management,Vehicle Collision,Medical Treatment,Afternoon,1–3 years,Poor communication,1,No
+INC-0669,2022,3,Underground Mining,Slip / Trip / Fall,Near Miss,Day,1–3 years,Insufficient training,0,Yes
+INC-0670,2024,1,Open Pit Operations,Manual Handling,Near Miss,Day,<1 year,Fatigue,0,Yes
+INC-0671,2024,6,Open Pit Operations,Slip / Trip / Fall,Lost Time Injury,Afternoon,1–3 years,Inadequate procedure,9,No
+INC-0672,2019,10,Underground Mining,Electrical Incident,Near Miss,Day,5–10 years,Human error,0,Yes
+INC-0673,2021,10,Electrical,Manual Handling,Lost Time Injury,Day,>10 years,Inadequate procedure,4,Yes
+INC-0674,2021,5,Processing Plant,Vehicle Collision,Lost Time Injury,Day,1–3 years,Insufficient training,2,No
+INC-0675,2021,4,Processing Plant,Chemical Exposure,First Aid,Night,<1 year,Inadequate supervision,0,No
+INC-0676,2021,2,Maintenance,Fire / Explosion,Medical Treatment,Day,3–5 years,Environmental condition,1,Yes
+INC-0677,2022,5,Drilling & Blasting,Electrical Incident,First Aid,Day,5–10 years,Inadequate procedure,0,Yes
+INC-0678,2023,1,Maintenance,Slip / Trip / Fall,First Aid,Night,3–5 years,Inadequate supervision,0,Yes
+INC-0679,2021,4,Tailings Management,Manual Handling,Lost Time Injury,Night,1–3 years,Inadequate procedure,3,Yes
+INC-0680,2021,10,Maintenance,Slip / Trip / Fall,First Aid,Night,>10 years,Fatigue,0,Yes
+INC-0681,2021,9,Tailings Management,Fire / Explosion,First Aid,Day,3–5 years,Environmental condition,0,No
+INC-0682,2020,2,Logistics & Transport,Manual Handling,Near Miss,Night,<1 year,Poor communication,0,Yes
+INC-0683,2023,3,Processing Plant,Slip / Trip / Fall,First Aid,Afternoon,3–5 years,Inadequate procedure,0,Yes
+INC-0684,2021,1,Tailings Management,Struck by Object,Near Miss,Day,5–10 years,Human error,0,Yes
+INC-0685,2024,6,Underground Mining,Electrical Incident,First Aid,Day,5–10 years,Inadequate procedure,0,Yes
+INC-0686,2024,8,Tailings Management,Slip / Trip / Fall,First Aid,Afternoon,<1 year,Insufficient training,0,Yes
+INC-0687,2020,6,Processing Plant,Slip / Trip / Fall,First Aid,Night,5–10 years,Human error,0,Partial
+INC-0688,2020,11,Processing Plant,Equipment Contact,First Aid,Afternoon,<1 year,Inadequate supervision,0,Partial
+INC-0689,2023,3,Processing Plant,Struck by Object,First Aid,Afternoon,>10 years,Insufficient training,0,Partial
+INC-0690,2022,10,Processing Plant,Struck by Object,Medical Treatment,Day,1–3 years,Environmental condition,1,No
+INC-0691,2019,2,Logistics & Transport,Equipment Contact,Medical Treatment,Day,1–3 years,Equipment failure,1,Yes
+INC-0692,2023,8,Underground Mining,Manual Handling,First Aid,Day,5–10 years,Poor communication,0,No
+INC-0693,2021,7,Processing Plant,Slip / Trip / Fall,Lost Time Injury,Night,3–5 years,PPE non-compliance,4,No
+INC-0694,2023,5,Underground Mining,Manual Handling,Near Miss,Afternoon,3–5 years,Inadequate supervision,0,Partial
+INC-0695,2023,7,Electrical,Equipment Contact,Medical Treatment,Day,3–5 years,Human error,1,Partial
+INC-0696,2024,11,Processing Plant,Slip / Trip / Fall,First Aid,Day,>10 years,Environmental condition,0,Partial
+INC-0697,2023,12,Open Pit Operations,Electrical Incident,Lost Time Injury,Day,1–3 years,Poor communication,3,Partial
+INC-0698,2024,4,Underground Mining,Near Miss,Near Miss,Night,3–5 years,Human error,0,Partial
+INC-0699,2021,8,Maintenance,Vehicle Collision,First Aid,Day,3–5 years,Insufficient training,0,Partial
+INC-0700,2021,3,Electrical,Struck by Object,Near Miss,Night,1–3 years,Inadequate supervision,0,Yes
+INC-0701,2019,7,Underground Mining,Equipment Contact,Medical Treatment,Afternoon,<1 year,Insufficient training,1,Yes
+INC-0702,2024,3,Maintenance,Vehicle Collision,Near Miss,Night,>10 years,Human error,0,Partial
+INC-0703,2020,7,Tailings Management,Electrical Incident,Near Miss,Afternoon,<1 year,Inadequate procedure,0,Yes
+INC-0704,2022,6,Open Pit Operations,Manual Handling,Near Miss,Day,<1 year,Poor communication,0,Yes
+INC-0705,2022,3,Open Pit Operations,Slip / Trip / Fall,Fatality,Day,<1 year,Insufficient training,0,No
+INC-0706,2024,5,Underground Mining,Equipment Contact,First Aid,Day,1–3 years,Human error,0,Yes
+INC-0707,2021,8,Underground Mining,Struck by Object,First Aid,Afternoon,1–3 years,Inadequate procedure,0,No
+INC-0708,2020,4,Processing Plant,Manual Handling,Lost Time Injury,Day,1–3 years,Poor communication,11,Partial
+INC-0709,2021,4,Electrical,Vehicle Collision,First Aid,Night,>10 years,Human error,0,Yes
+INC-0710,2019,8,Maintenance,Chemical Exposure,Medical Treatment,Afternoon,3–5 years,Human error,1,Partial
+INC-0711,2021,12,Open Pit Operations,Vehicle Collision,First Aid,Day,3–5 years,Inadequate procedure,0,No
+INC-0712,2023,7,Open Pit Operations,Vehicle Collision,Lost Time Injury,Night,1–3 years,Inadequate procedure,27,No
+INC-0713,2019,11,Tailings Management,Near Miss,Near Miss,Night,3–5 years,Inadequate procedure,0,Yes
+INC-0714,2024,1,Processing Plant,Equipment Contact,Medical Treatment,Night,3–5 years,Equipment failure,1,Yes
+INC-0715,2022,1,Drilling & Blasting,Vehicle Collision,First Aid,Night,<1 year,Fatigue,0,No
+INC-0716,2021,8,Tailings Management,Struck by Object,Near Miss,Day,5–10 years,Insufficient training,0,Partial
+INC-0717,2024,3,Open Pit Operations,Equipment Contact,First Aid,Day,<1 year,Insufficient training,0,Yes
+INC-0718,2019,12,Processing Plant,Equipment Contact,Near Miss,Afternoon,3–5 years,Inadequate procedure,0,No
+INC-0719,2021,7,Electrical,Struck by Object,Near Miss,Afternoon,<1 year,Inadequate procedure,0,No
+INC-0720,2024,1,Underground Mining,Struck by Object,Near Miss,Afternoon,3–5 years,Environmental condition,0,Yes
+INC-0721,2020,1,HSE / Supervision,Slip / Trip / Fall,Medical Treatment,Day,1–3 years,Poor communication,1,Partial
+INC-0722,2023,10,Open Pit Operations,Manual Handling,Lost Time Injury,Day,>10 years,Equipment failure,2,Yes
+INC-0723,2019,5,Drilling & Blasting,Slip / Trip / Fall,Near Miss,Afternoon,<1 year,Poor communication,0,Yes
+INC-0724,2022,12,Drilling & Blasting,Equipment Contact,Lost Time Injury,Day,>10 years,Human error,22,Yes
+INC-0725,2023,10,Tailings Management,Slip / Trip / Fall,First Aid,Night,<1 year,Equipment failure,0,No
+INC-0726,2020,8,Electrical,Struck by Object,First Aid,Night,1–3 years,Equipment failure,0,Yes
+INC-0727,2021,9,Underground Mining,Manual Handling,Near Miss,Day,<1 year,Inadequate supervision,0,Yes
+INC-0728,2022,1,Maintenance,Struck by Object,Near Miss,Night,3–5 years,Environmental condition,0,No
+INC-0729,2022,3,Logistics & Transport,Struck by Object,Near Miss,Night,3–5 years,Inadequate procedure,0,Yes
+INC-0730,2020,2,Underground Mining,Struck by Object,First Aid,Day,3–5 years,PPE non-compliance,0,Partial
+INC-0731,2021,5,Underground Mining,Struck by Object,First Aid,Day,1–3 years,Fatigue,0,Yes
+INC-0732,2024,6,Logistics & Transport,Slip / Trip / Fall,Near Miss,Night,1–3 years,Human error,0,Yes
+INC-0733,2021,10,Tailings Management,Slip / Trip / Fall,Lost Time Injury,Day,>10 years,Equipment failure,2,Yes
+INC-0734,2023,10,Drilling & Blasting,Struck by Object,Near Miss,Afternoon,3–5 years,Insufficient training,0,No
+INC-0735,2020,2,Maintenance,Struck by Object,Near Miss,Day,1–3 years,Inadequate procedure,0,Yes
+INC-0736,2022,1,Underground Mining,Slip / Trip / Fall,Medical Treatment,Afternoon,<1 year,Insufficient training,1,Yes
+INC-0737,2022,6,HSE / Supervision,Struck by Object,Medical Treatment,Night,>10 years,Human error,1,Yes
+INC-0738,2022,11,Open Pit Operations,Slip / Trip / Fall,Medical Treatment,Day,1–3 years,Environmental condition,1,Yes
+INC-0739,2023,1,Processing Plant,Near Miss,Medical Treatment,Afternoon,5–10 years,PPE non-compliance,1,Yes
+INC-0740,2023,7,Open Pit Operations,Manual Handling,Near Miss,Day,5–10 years,Human error,0,Yes
+INC-0741,2023,11,Maintenance,Vehicle Collision,Near Miss,Day,5–10 years,Environmental condition,0,Partial
+INC-0742,2023,7,Underground Mining,Fire / Explosion,Medical Treatment,Night,>10 years,Equipment failure,1,Yes
+INC-0743,2024,6,Open Pit Operations,Chemical Exposure,Lost Time Injury,Afternoon,5–10 years,Poor communication,3,No
+INC-0744,2021,12,Open Pit Operations,Equipment Contact,First Aid,Afternoon,5–10 years,Equipment failure,0,Yes
+INC-0745,2024,7,Open Pit Operations,Slip / Trip / Fall,Near Miss,Day,<1 year,Inadequate supervision,0,Partial
+INC-0746,2022,11,Processing Plant,Equipment Contact,First Aid,Day,5–10 years,Insufficient training,0,Partial
+INC-0747,2020,2,Open Pit Operations,Struck by Object,First Aid,Afternoon,3–5 years,Insufficient training,0,Partial
+INC-0748,2020,12,Underground Mining,Electrical Incident,First Aid,Day,1–3 years,Equipment failure,0,Yes
+INC-0749,2023,9,Tailings Management,Manual Handling,Near Miss,Day,<1 year,Human error,0,Yes
+INC-0750,2023,10,Drilling & Blasting,Slip / Trip / Fall,Near Miss,Afternoon,5–10 years,Inadequate procedure,0,Yes
+INC-0751,2019,6,Maintenance,Slip / Trip / Fall,Medical Treatment,Day,3–5 years,Inadequate procedure,1,Yes
+INC-0752,2022,10,Underground Mining,Electrical Incident,First Aid,Night,5–10 years,Human error,0,Yes
+INC-0753,2019,8,Open Pit Operations,Equipment Contact,Near Miss,Night,3–5 years,Insufficient training,0,Yes
+INC-0754,2021,4,Tailings Management,Vehicle Collision,Medical Treatment,Night,1–3 years,Inadequate procedure,1,No
+INC-0755,2022,6,Open Pit Operations,Struck by Object,First Aid,Afternoon,<1 year,Human error,0,Partial
+INC-0756,2023,11,HSE / Supervision,Equipment Contact,Near Miss,Day,<1 year,Insufficient training,0,Yes
+INC-0757,2020,9,Tailings Management,Equipment Contact,First Aid,Day,3–5 years,Environmental condition,0,Yes
+INC-0758,2019,12,Tailings Management,Equipment Contact,Medical Treatment,Night,>10 years,Poor communication,1,No
+INC-0759,2022,8,Open Pit Operations,Equipment Contact,Near Miss,Night,1–3 years,Inadequate procedure,0,Partial
+INC-0760,2024,1,Maintenance,Electrical Incident,Medical Treatment,Afternoon,>10 years,Inadequate procedure,1,Yes
+INC-0761,2023,6,Underground Mining,Manual Handling,Lost Time Injury,Night,1–3 years,Insufficient training,5,No
+INC-0762,2021,1,Tailings Management,Slip / Trip / Fall,Near Miss,Afternoon,1–3 years,Inadequate supervision,0,Yes
+INC-0763,2022,10,Underground Mining,Vehicle Collision,Near Miss,Day,1–3 years,Insufficient training,0,Yes
+INC-0764,2023,10,Open Pit Operations,Slip / Trip / Fall,Lost Time Injury,Day,1–3 years,Insufficient training,10,No
+INC-0765,2024,5,Underground Mining,Struck by Object,First Aid,Afternoon,<1 year,Insufficient training,0,Yes
+INC-0766,2022,7,Processing Plant,Electrical Incident,Medical Treatment,Night,5–10 years,Insufficient training,1,Partial
+INC-0767,2024,9,Underground Mining,Struck by Object,Medical Treatment,Night,3–5 years,Fatigue,1,Yes
+INC-0768,2021,2,Maintenance,Struck by Object,Medical Treatment,Night,1–3 years,Human error,1,Yes
+INC-0769,2020,12,Open Pit Operations,Manual Handling,First Aid,Afternoon,1–3 years,Fatigue,0,Yes
+INC-0770,2021,11,Processing Plant,Struck by Object,Fatality,Afternoon,<1 year,Inadequate procedure,0,Partial
+INC-0771,2023,9,Open Pit Operations,Vehicle Collision,Near Miss,Night,5–10 years,PPE non-compliance,0,Yes
+INC-0772,2024,6,Underground Mining,Chemical Exposure,First Aid,Afternoon,5–10 years,Insufficient training,0,No
+INC-0773,2022,9,Processing Plant,Struck by Object,First Aid,Day,<1 year,Inadequate procedure,0,No
+INC-0774,2023,2,Logistics & Transport,Slip / Trip / Fall,Lost Time Injury,Day,1–3 years,Poor communication,2,Yes
+INC-0775,2019,11,Logistics & Transport,Slip / Trip / Fall,Near Miss,Afternoon,>10 years,Human error,0,Yes
+INC-0776,2022,11,Electrical,Slip / Trip / Fall,First Aid,Day,1–3 years,Environmental condition,0,Partial
+INC-0777,2022,3,Electrical,Vehicle Collision,Medical Treatment,Day,>10 years,Poor communication,1,Yes
+INC-0778,2022,2,Processing Plant,Equipment Contact,First Aid,Afternoon,5–10 years,Environmental condition,0,Partial
+INC-0779,2020,4,Underground Mining,Near Miss,Lost Time Injury,Day,1–3 years,Environmental condition,1,Yes
+INC-0780,2023,11,Processing Plant,Manual Handling,Fatality,Afternoon,1–3 years,Poor communication,0,Partial
+INC-0781,2023,12,Maintenance,Electrical Incident,Medical Treatment,Day,>10 years,Human error,1,Yes
+INC-0782,2023,8,Maintenance,Equipment Contact,First Aid,Day,5–10 years,Inadequate supervision,0,Yes
+INC-0783,2023,10,Open Pit Operations,Vehicle Collision,Medical Treatment,Afternoon,5–10 years,Equipment failure,1,Yes
+INC-0784,2022,10,Tailings Management,Slip / Trip / Fall,Lost Time Injury,Day,5–10 years,Inadequate procedure,4,Yes
+INC-0785,2024,4,Electrical,Struck by Object,Near Miss,Night,5–10 years,Inadequate procedure,0,Yes
+INC-0786,2022,12,Open Pit Operations,Manual Handling,First Aid,Day,3–5 years,Human error,0,Partial
+INC-0787,2024,10,Maintenance,Equipment Contact,Medical Treatment,Day,1–3 years,Human error,1,Partial
+INC-0788,2021,5,Underground Mining,Slip / Trip / Fall,Near Miss,Day,1–3 years,Equipment failure,0,Yes
+INC-0789,2023,9,Logistics & Transport,Manual Handling,Lost Time Injury,Day,5–10 years,Inadequate supervision,1,Yes
+INC-0790,2020,9,Underground Mining,Equipment Contact,Lost Time Injury,Day,1–3 years,Human error,1,Partial
+INC-0791,2019,6,Tailings Management,Near Miss,Near Miss,Day,5–10 years,Inadequate procedure,0,Yes
+INC-0792,2024,3,Underground Mining,Electrical Incident,Medical Treatment,Afternoon,5–10 years,Poor communication,1,Yes
+INC-0793,2021,4,Processing Plant,Manual Handling,Near Miss,Night,1–3 years,Inadequate procedure,0,Yes
+INC-0794,2019,11,Underground Mining,Manual Handling,Lost Time Injury,Night,3–5 years,Inadequate supervision,5,Partial
+INC-0795,2023,3,Logistics & Transport,Manual Handling,Near Miss,Night,1–3 years,Poor communication,0,Partial
+INC-0796,2024,1,Underground Mining,Manual Handling,First Aid,Afternoon,5–10 years,Environmental condition,0,Yes
+INC-0797,2023,8,Maintenance,Slip / Trip / Fall,Near Miss,Day,>10 years,Environmental condition,0,Yes
+INC-0798,2024,4,Electrical,Slip / Trip / Fall,Near Miss,Day,3–5 years,Inadequate procedure,0,Yes
+INC-0799,2024,5,Underground Mining,Vehicle Collision,Lost Time Injury,Afternoon,<1 year,Environmental condition,9,Yes
+INC-0800,2022,4,Maintenance,Manual Handling,First Aid,Day,1–3 years,Human error,0,No
+INC-0801,2020,7,Maintenance,Manual Handling,First Aid,Afternoon,3–5 years,Inadequate procedure,0,No
+INC-0802,2019,8,Tailings Management,Slip / Trip / Fall,Near Miss,Afternoon,3–5 years,Fatigue,0,Yes
+INC-0803,2021,1,Open Pit Operations,Electrical Incident,Medical Treatment,Day,1–3 years,Environmental condition,1,No
+INC-0804,2023,1,Electrical,Struck by Object,Near Miss,Day,<1 year,PPE non-compliance,0,Partial
+INC-0805,2024,7,Tailings Management,Fire / Explosion,Near Miss,Night,3–5 years,Human error,0,No
+INC-0806,2019,10,Open Pit Operations,Manual Handling,First Aid,Afternoon,>10 years,Insufficient training,0,Yes
+INC-0807,2024,3,Underground Mining,Equipment Contact,Lost Time Injury,Afternoon,<1 year,Equipment failure,7,Yes
+INC-0808,2023,3,Drilling & Blasting,Manual Handling,Lost Time Injury,Day,1–3 years,Human error,1,No
+INC-0809,2023,2,Maintenance,Struck by Object,First Aid,Day,>10 years,Poor communication,0,Yes
+INC-0810,2019,4,Maintenance,Vehicle Collision,First Aid,Day,3–5 years,Human error,0,Yes
+INC-0811,2019,4,Processing Plant,Near Miss,Lost Time Injury,Night,>10 years,Inadequate procedure,7,Yes
+INC-0812,2023,2,Underground Mining,Vehicle Collision,Medical Treatment,Day,>10 years,Human error,1,Yes
+INC-0813,2023,12,Maintenance,Equipment Contact,First Aid,Day,>10 years,Equipment failure,0,No
+INC-0814,2021,2,Processing Plant,Vehicle Collision,First Aid,Day,>10 years,Human error,0,Yes
+INC-0815,2021,12,Processing Plant,Vehicle Collision,Medical Treatment,Day,5–10 years,Inadequate procedure,1,No
+INC-0816,2019,10,Tailings Management,Equipment Contact,Near Miss,Afternoon,5–10 years,Insufficient training,0,Yes
+INC-0817,2024,3,Underground Mining,Vehicle Collision,Lost Time Injury,Night,5–10 years,Inadequate procedure,6,Yes
+INC-0818,2024,10,Electrical,Slip / Trip / Fall,Near Miss,Afternoon,1–3 years,Human error,0,Yes
+INC-0819,2024,3,Processing Plant,Struck by Object,Lost Time Injury,Day,5–10 years,Insufficient training,10,Partial
+INC-0820,2024,2,Electrical,Vehicle Collision,Near Miss,Night,1–3 years,Poor communication,0,No
+INC-0821,2022,7,Drilling & Blasting,Manual Handling,Near Miss,Night,1–3 years,Inadequate procedure,0,Yes
+INC-0822,2024,3,Open Pit Operations,Vehicle Collision,Medical Treatment,Day,5–10 years,Fatigue,1,Yes
+INC-0823,2020,6,Processing Plant,Vehicle Collision,First Aid,Day,1–3 years,Insufficient training,0,Yes
+INC-0824,2023,9,Processing Plant,Electrical Incident,First Aid,Night,5–10 years,Equipment failure,0,Partial
+INC-0825,2020,3,Tailings Management,Slip / Trip / Fall,Near Miss,Day,<1 year,Equipment failure,0,Yes
+INC-0826,2021,2,Processing Plant,Manual Handling,Medical Treatment,Night,3–5 years,Inadequate procedure,1,Yes
+INC-0827,2024,1,Underground Mining,Electrical Incident,Lost Time Injury,Night,>10 years,Insufficient training,7,Yes
+INC-0828,2021,9,Open Pit Operations,Near Miss,First Aid,Night,>10 years,Environmental condition,0,No
+INC-0829,2024,2,HSE / Supervision,Slip / Trip / Fall,Lost Time Injury,Day,<1 year,Human error,19,No
+INC-0830,2022,12,Open Pit Operations,Vehicle Collision,First Aid,Night,3–5 years,Inadequate supervision,0,Yes
+INC-0831,2021,7,Underground Mining,Struck by Object,Medical Treatment,Day,<1 year,Human error,1,Partial
+INC-0832,2020,2,Tailings Management,Struck by Object,First Aid,Day,5–10 years,Inadequate supervision,0,No
+INC-0833,2019,11,Logistics & Transport,Equipment Contact,Medical Treatment,Night,1–3 years,Environmental condition,1,Yes
+INC-0834,2022,1,Open Pit Operations,Struck by Object,First Aid,Afternoon,5–10 years,Human error,0,Yes
+INC-0835,2024,6,Underground Mining,Struck by Object,First Aid,Night,3–5 years,Environmental condition,0,No
+INC-0836,2020,10,Underground Mining,Equipment Contact,Medical Treatment,Afternoon,<1 year,Poor communication,1,Yes
+INC-0837,2022,7,Processing Plant,Electrical Incident,First Aid,Night,5–10 years,Insufficient training,0,Yes
+INC-0838,2024,3,Processing Plant,Struck by Object,Lost Time Injury,Day,3–5 years,Inadequate supervision,13,No
+INC-0839,2021,3,Open Pit Operations,Struck by Object,First Aid,Afternoon,3–5 years,Insufficient training,0,Yes
+INC-0840,2024,7,Underground Mining,Slip / Trip / Fall,Medical Treatment,Afternoon,3–5 years,Insufficient training,1,Partial
+INC-0841,2024,8,Underground Mining,Vehicle Collision,First Aid,Night,5–10 years,Inadequate procedure,0,Yes
+INC-0842,2022,10,Maintenance,Chemical Exposure,First Aid,Day,1–3 years,Human error,0,No
+INC-0843,2023,8,Logistics & Transport,Vehicle Collision,Near Miss,Day,1–3 years,Poor communication,0,Partial
+INC-0844,2019,6,Electrical,Equipment Contact,Near Miss,Afternoon,3–5 years,Environmental condition,0,Yes
+INC-0845,2022,8,Underground Mining,Slip / Trip / Fall,Lost Time Injury,Day,1–3 years,Human error,6,Partial
+INC-0846,2023,10,Logistics & Transport,Slip / Trip / Fall,Medical Treatment,Day,1–3 years,Human error,1,Yes
+INC-0847,2020,3,Maintenance,Manual Handling,Near Miss,Day,1–3 years,Human error,0,Partial
+INC-0848,2019,9,Maintenance,Struck by Object,First Aid,Night,3–5 years,Poor communication,0,Yes
+INC-0849,2019,9,Tailings Management,Slip / Trip / Fall,Near Miss,Night,3–5 years,Human error,0,Partial
+INC-0850,2020,3,Open Pit Operations,Vehicle Collision,Fatality,Day,<1 year,Equipment failure,0,Yes
